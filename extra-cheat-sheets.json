@@ -1753,27 +1753,27 @@
     "filePattern": "^content/en/(.+)\\.md",
     "type": "Documentation",
     "category": "DevOps",
-    "stars": 858,
-    "forks": 1685,
-    "last_updated": "2026-03-03"
+    "stars": 864,
+    "forks": 1722,
+    "last_updated": "2026-04-03"
   },
   "Documentation Openshift": {
     "github": "openshift/openshift-docs",
     "filePattern": "^([^_].+).adoc$",
     "type": "Documentation",
     "category": "DevOps",
-    "stars": 853,
-    "forks": 1867,
-    "last_updated": "2026-03-03"
+    "stars": 855,
+    "forks": 1874,
+    "last_updated": "2026-04-03"
   },
   "Documentation CircleCI": {
     "github": "circleci/circleci-docs",
     "filePattern": "^jekyll/_cci2/(.+).adoc$",
     "type": "Documentation",
     "category": "DevOps",
-    "stars": 838,
-    "forks": 1500,
-    "last_updated": "2026-03-03"
+    "stars": 842,
+    "forks": 1499,
+    "last_updated": "2026-04-03"
   },
   "Documentation cfengine": {
     "github": "cfengine/documentation",
@@ -1781,7 +1781,7 @@
     "category": "DevOps",
     "stars": 36,
     "forks": 74,
-    "last_updated": "2026-03-03"
+    "last_updated": "2026-04-03"
   },
   "Documentation Cacti": {
     "github": "Cacti/documentation",
@@ -1789,31 +1789,31 @@
     "category": "DevOps",
     "stars": 62,
     "forks": 53,
-    "last_updated": "2026-03-03"
+    "last_updated": "2026-04-03"
   },
   "Learning Path k8s": {
     "github": "techiescamp/kubernetes-learning-path",
     "type": "Learning Path",
     "category": "DevOps",
-    "stars": 7440,
-    "forks": 983,
-    "last_updated": "2026-03-03"
+    "stars": 7473,
+    "forks": 991,
+    "last_updated": "2026-04-03"
   },
   "Learning Path k8s (Microsoft)": {
     "github": "microsoft/kubernetes-learning-path",
     "type": "Learning Path",
     "category": "DevOps",
-    "stars": 393,
+    "stars": 394,
     "forks": 131,
-    "last_updated": "2026-03-03"
+    "last_updated": "2026-04-03"
   },
   "Learning Path FullStack Web Dev": {
     "github": "shovanch/fullstack-web-developer-path",
     "type": "Learning Path",
     "category": "Development",
-    "stars": 3471,
-    "forks": 623,
-    "last_updated": "2026-03-03"
+    "stars": 3472,
+    "forks": 620,
+    "last_updated": "2026-04-03"
   },
   "Learning Path Functional Programming": {
     "github": "imteekay/functional-programming-learning-path",
