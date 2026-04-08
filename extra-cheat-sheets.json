@@ -2356,31 +2356,31 @@
     "filePattern": "^assetpack/src/main/assets/(.+\\.html)$",
     "stars": 1,
     "forks": 0,
-    "last_updated": "2026-03-08"
+    "last_updated": "2026-04-08"
   },
   "Documentation Ansible": {
     "github": "ansible/ansible-documentation",
     "type": "Documentation",
     "category": "DevOps",
     "filePattern": "docs/docsite/rst/(.+\\.rst)$",
-    "stars": 154,
-    "forks": 800,
-    "last_updated": "2026-03-08"
+    "stars": 155,
+    "forks": 803,
+    "last_updated": "2026-04-08"
   },
   "Embedded New Testament": {
     "github": "theEmbeddedGeorge/theEmbeddedNewTestament.github.io",
     "type": "Documentation",
     "category": "Development",
-    "stars": 681,
-    "forks": 161,
-    "last_updated": "2026-03-08"
+    "stars": 727,
+    "forks": 169,
+    "last_updated": "2026-04-08"
   },
   "x86 bare metal examples": {
     "github": "cirosantilli/x86-bare-metal-examples",
     "type": "Tutorial",
     "category": "Development",
-    "stars": 5236,
-    "forks": 418,
-    "last_updated": "2026-03-08"
+    "stars": 5251,
+    "forks": 420,
+    "last_updated": "2026-04-08"
   }
 }
