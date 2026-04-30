@@ -21,66 +21,66 @@
     "github": "zakirullin/cognitive-load",
     "type": "Tutorial",
     "category": "Programming",
-    "stars": 12013,
-    "forks": 290,
-    "last_updated": "2026-03-31"
+    "stars": 12120,
+    "forks": 292,
+    "last_updated": "2026-04-30"
   },
   "LearnXinYMinutes": {
     "github": "adambard/learnxinyminutes-docs",
     "type": "Tutorial",
     "category": "Programming",
-    "stars": 12210,
-    "forks": 3592,
-    "last_updated": "2026-03-31"
+    "stars": 12242,
+    "forks": 3612,
+    "last_updated": "2026-04-30"
   },
   "Awesome Python": {
     "github": "vinta/awesome-python",
     "filePattern": "^(README)\\.md$",
     "type": "Awesome",
     "category": "Programming",
-    "stars": 289935,
-    "forks": 27533,
-    "last_updated": "2026-03-31"
+    "stars": 295265,
+    "forks": 27796,
+    "last_updated": "2026-04-30"
   },
   "Awesome GraphQL": {
     "github": "chentsulin/awesome-graphql",
     "type": "Awesome",
     "category": "Programming",
-    "stars": 15000,
+    "stars": 15013,
     "forks": 1236,
-    "last_updated": "2026-03-31"
+    "last_updated": "2026-04-30"
   },
   "Awesome Cheat Sheets": {
     "github": "detailyang/awesome-cheatsheet",
     "type": "Awesome",
     "category": "Programming",
-    "stars": 8264,
-    "forks": 1053,
-    "last_updated": "2026-03-31"
+    "stars": 8296,
+    "forks": 1057,
+    "last_updated": "2026-04-30"
   },
   "Awesome CS Courses": {
     "github": "prakhar1989/awesome-courses",
     "type": "Awesome",
     "category": "Programming",
-    "stars": 67369,
-    "forks": 8334,
-    "last_updated": "2026-03-31"
+    "stars": 68101,
+    "forks": 8361,
+    "last_updated": "2026-04-30"
   },
   "Awesome Public Datasets": {
     "github": "awesomedata/awesome-public-datasets",
     "type": "Awesome",
     "category": "Programming",
-    "stars": 73767,
-    "forks": 11223,
-    "last_updated": "2026-03-31"
+    "stars": 74761,
+    "forks": 11365,
+    "last_updated": "2026-04-30"
   },
   "Awesome OSINT": {
     "github": "jivoi/awesome-osint",
     "type": "Awesome",
     "category": "Security",
-    "stars": 25555,
-    "forks": 3504,
-    "last_updated": "2026-03-31"
+    "stars": 26067,
+    "forks": 3585,
+    "last_updated": "2026-04-30"
   },
   "Awesome OpenPolicyAgent": {
     "github": "StyraInc/awesome-opa",
@@ -94,62 +94,62 @@
     "github": "DovAmir/awesome-design-patterns",
     "type": "Awesome",
     "category": "Architecture",
-    "stars": 46643,
-    "forks": 3222,
-    "last_updated": "2026-03-31"
+    "stars": 47133,
+    "forks": 3233,
+    "last_updated": "2026-04-30"
   },
   "Awesome Scalability": {
     "github": "binhnguyennus/awesome-scalability",
     "filePattern": "^(README)\\.md$",
     "type": "Awesome",
     "category": "Architecture",
-    "stars": 70060,
-    "forks": 6923,
-    "last_updated": "2026-03-31"
+    "stars": 70734,
+    "forks": 6981,
+    "last_updated": "2026-04-30"
   },
   "Learning freeCodeCamp": {
     "github": "freeCodeCamp/freeCodeCamp",
     "filePattern": "^(README)\\.md$",
     "category": "Programming",
     "type": "Tutorial",
-    "stars": 440226,
-    "forks": 43931,
-    "last_updated": "2026-03-31"
+    "stars": 443944,
+    "forks": 44434,
+    "last_updated": "2026-04-30"
   },
   "Learn Regex": {
     "github": "ziishaned/learn-regex",
     "filePattern": "^(README)\\.md$",
     "category": "Programming",
     "type": "Cheat Sheet",
-    "stars": 46152,
-    "forks": 6209,
-    "last_updated": "2026-03-31"
+    "stars": 46133,
+    "forks": 6192,
+    "last_updated": "2026-04-30"
   },
   "Github Cheat Sheet": {
     "github": "tiimgreen/github-cheat-sheet",
     "filePattern": "^(README)\\.md$",
     "category": "Programming",
     "type": "Cheat Sheet",
-    "stars": 55957,
-    "forks": 5407,
-    "last_updated": "2026-03-31"
+    "stars": 56610,
+    "forks": 5416,
+    "last_updated": "2026-04-30"
   },
   "devhints.io": {
     "github": "rstacruz/cheatsheets",
     "category": "DevOps",
     "type": "Cheat Sheet",
-    "stars": 14402,
-    "forks": 3604,
-    "last_updated": "2026-03-31"
+    "stars": 14417,
+    "forks": 3602,
+    "last_updated": "2026-04-30"
   },
   "WTFJS": {
     "github": "denysdovhan/wtfjs",
     "filePattern": "^(README)\\.md$",
     "category": "Programming",
     "type": "Book",
-    "stars": 37757,
-    "forks": 2691,
-    "last_updated": "2026-03-31"
+    "stars": 37627,
+    "forks": 2695,
+    "last_updated": "2026-04-30"
   },
   "JS Promise Cookbook": {
     "github": "mattdesl/promise-cookbook",
@@ -157,77 +157,77 @@
     "category": "Development",
     "type": "Book",
     "stars": 1618,
-    "forks": 191,
-    "last_updated": "2026-03-31"
+    "forks": 190,
+    "last_updated": "2026-04-30"
   },
   "Typescript Handbook": {
     "github": "microsoft/TypeScript-Website",
     "filePattern": "^packages/documentation/copy/en/handbook-v2/(.+)\\.md$",
     "category": "Development",
     "type": "Book",
-    "stars": 2492,
-    "forks": 1479,
-    "last_updated": "2026-03-31"
+    "stars": 2503,
+    "forks": 1487,
+    "last_updated": "2026-04-30"
   },
   "Pure Bash Bible": {
     "github": "dylanaraps/pure-bash-bible",
     "filePattern": "^(README)\\.md$",
     "category": "DevOps",
     "type": "Book",
-    "stars": 41457,
-    "forks": 3639,
-    "last_updated": "2026-03-31"
+    "stars": 41528,
+    "forks": 3642,
+    "last_updated": "2026-04-30"
   },
   "Bash Handbook": {
     "github": "denysdovhan/bash-handbook",
     "category": "DevOps",
     "type": "Book",
-    "stars": 6100,
+    "stars": 6064,
     "forks": 760,
-    "last_updated": "2026-03-31"
+    "last_updated": "2026-04-30"
   },
   "Bash Streams Handbook": {
     "github": "miguelmota/bash-streams-handbook",
     "category": "DevOps",
     "type": "Cheat Sheet",
-    "stars": 261,
+    "stars": 263,
     "forks": 20,
-    "last_updated": "2026-03-31"
+    "last_updated": "2026-04-30"
   },
   "Learn Vim": {
     "github": "iggredible/Learn-Vim",
     "category": "DevOps",
     "type": "Tutorial",
-    "stars": 15006,
-    "forks": 1141,
-    "last_updated": "2026-03-31"
+    "stars": 15035,
+    "forks": 1142,
+    "last_updated": "2026-04-30"
   },
   "FastAI Fastbook": {
     "github": "fastai/fastbook",
     "filePattern": "^(README)\\.md$",
     "category": "ML",
     "type": "Book",
-    "stars": 24826,
-    "forks": 9453,
-    "last_updated": "2026-03-31"
+    "stars": 24915,
+    "forks": 9455,
+    "last_updated": "2026-04-30"
   },
   "OWASP Cheat Sheets Series": {
     "github": "OWASP/CheatSheetSeries",
     "filePattern": "^cheatsheets/(.+)\\.md$",
     "category": "Security",
     "type": "Cheat Sheet",
-    "stars": 31657,
-    "forks": 4417,
-    "last_updated": "2026-03-31"
+    "stars": 31890,
+    "forks": 4438,
+    "last_updated": "2026-04-30"
   },
   "eg Cheat Sheets": {
     "github": "srsudar/eg",
     "filePattern": "^eg/examples/([^/]+)\\.md$",
     "category": "DevOps",
     "type": "Cheat Sheet",
-    "stars": 2002,
-    "forks": 111,
-    "last_updated": "2026-03-31"
+    "stars": 2007,
+    "forks": 110,
+    "last_updated": "2026-04-30"
   },
   "Free Programming Books": {
     "github": "EbookFoundation/free-programming-books",
