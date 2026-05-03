@@ -439,7 +439,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Documentation Kata Containers](https://github.com/kata-containers/kata-containers) | ⭐7849 | 📄 Docs | Security | 
 | [Documentation Linode](https://github.com/linode/docs) | ⭐1395 | 📄 Docs | SaaS | 
 | [Documentation OSV Scanner](https://github.com/google/osv-scanner) | ⭐10004 | 📄 Docs | Security | 
-| [Documentation OpenTelemetry](https://github.com/open-telemetry/opentelemetry.io) | ⭐864 | 📄 Docs | DevOps | 
+| [Documentation OpenTelemetry](https://github.com/open-telemetry/opentelemetry.io) | ⭐880 | 📄 Docs | DevOps | 
 | [Documentation Openshift](https://github.com/openshift/openshift-docs) | ⭐855 | 📄 Docs | DevOps | 
 | [Documentation Powershell](https://github.com/MicrosoftDocs/PowerShell-Docs) | ⭐2438 | 📄 Docs | DevOps | 
 | [Documentation Prometheus](https://github.com/prometheus/docs) | ⭐708 | 📄 Docs | DevOps | 
@@ -510,7 +510,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [LearnXinYMinutes](https://github.com/adambard/learnxinyminutes-docs) | ⭐12242 | 💡 Tutorial | Programming | 
 | [Learning Path AI Expert](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) | ⭐30881 | 📚 Learning Path | Development | 
 | [Learning Path Data Science](https://github.com/myarist/Data-Science-Learning-Path) |  | 📚 Learning Path | Development | 
-| [Learning Path FullStack Web Dev](https://github.com/shovanch/fullstack-web-developer-path) | ⭐3472 | 📚 Learning Path | Development | 
+| [Learning Path FullStack Web Dev](https://github.com/shovanch/fullstack-web-developer-path) | ⭐3476 | 📚 Learning Path | Development | 
 | [Learning Path Functional Programming](https://github.com/imteekay/functional-programming-learning-path) | ⭐1039 | 📚 Learning Path | Development | 
 | [Learning Path Senior Developer](https://github.com/joebew42/study-path) | ⭐2985 | 📚 Learning Path | Development | 
 | [Learning Path Software Design](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) | ⭐3389 | 📚 Learning Path | Development | 
@@ -518,8 +518,8 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Learning Path System Design](https://github.com/TechPrimers/learning-path-system-design) | ⭐84 | 📚 Learning Path | Architecture | 
 | [Learning Path Thinkerhub](https://github.com/tinkerhub/TinkerHub-Learning-Paths) | ⭐65 | 📚 Learning Path | Development | 
 | [Learning Path by Role](https://github.com/belatrix/learningPaths) | ⭐30 | 📚 Learning Path | Development | 
-| [Learning Path k8s](https://github.com/techiescamp/kubernetes-learning-path) | ⭐7473 | 📚 Learning Path | DevOps | 
-| [Learning Path k8s (Microsoft)](https://github.com/microsoft/kubernetes-learning-path) | ⭐394 | 📚 Learning Path | DevOps | 
+| [Learning Path k8s](https://github.com/techiescamp/kubernetes-learning-path) | ⭐7515 | 📚 Learning Path | DevOps | 
+| [Learning Path k8s (Microsoft)](https://github.com/microsoft/kubernetes-learning-path) | ⭐395 | 📚 Learning Path | DevOps | 
 | [Learning freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | ⭐443944 | 💡 Tutorial | Programming | 
 | [Linux Kernel Docs](https://github.com/bryancandi/LinuxKernelDocs) | ⭐1 | 📄 Docs | Development | 
 | [Linux XDP Tutorial](https://github.com/xdp-project/xdp-tutorial) | ⭐2915 | 📄 Docs | Programming | 
