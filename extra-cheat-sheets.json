@@ -2109,47 +2109,47 @@
     "category": "Architecture",
     "stars": 6,
     "forks": 2,
-    "last_updated": "2026-04-06"
+    "last_updated": "2026-05-06"
   },
   "arc42 Documentation": {
     "github": "arc42/docs.arc42.org-site",
     "type": "Documentation",
     "category": "Architecture",
-    "stars": 64,
+    "stars": 65,
     "forks": 28,
-    "last_updated": "2026-04-06"
+    "last_updated": "2026-05-06"
   },
   "awesome Architecture": {
     "github": "mehdihadeli/awesome-software-architecture",
     "type": "Awesome",
     "category": "Architecture",
-    "stars": 10830,
-    "forks": 934,
-    "last_updated": "2026-04-06"
+    "stars": 11043,
+    "forks": 964,
+    "last_updated": "2026-05-06"
   },
   "Learning Path Software Design": {
     "github": "stemmlerjs/software-design-and-architecture-roadmap",
     "type": "Learning Path",
     "category": "Development",
-    "stars": 3389,
+    "stars": 3391,
     "forks": 419,
-    "last_updated": "2026-04-06"
+    "last_updated": "2026-05-06"
   },
   "Solution Architecture Links": {
     "github": "unlight/solution-architecture",
     "type": "Awesome",
     "category": "Architecture",
-    "stars": 692,
+    "stars": 694,
     "forks": 280,
-    "last_updated": "2026-04-06"
+    "last_updated": "2026-05-06"
   },
   "nocomplexity Architecture Playbook": {
     "github": "nocomplexity/ArchitecturePlaybook",
     "type": "Documentation",
     "category": "Architecture",
     "stars": 735,
-    "forks": 70,
-    "last_updated": "2026-04-06"
+    "forks": 69,
+    "last_updated": "2026-05-06"
   },
   "Awesome Clean Architecture": {
     "github": "dgomezs/awesome-clean-architecture",
@@ -2161,25 +2161,25 @@
     "type": "Tutorial",
     "category": "Architecture",
     "filePattern": "^i18n/en/docusaurus-plugin-content-docs/current/get-started/(tutorial).md$",
-    "stars": 2232,
+    "stars": 2256,
     "forks": 218,
-    "last_updated": "2026-04-06"
+    "last_updated": "2026-05-06"
   },
   "What is Enterprise Architecture": {
     "github": "justinamiller/EnterpriseArchitecture",
     "type": "Documentation",
     "category": "Architecture",
-    "stars": 250,
+    "stars": 251,
     "forks": 57,
-    "last_updated": "2026-04-06"
+    "last_updated": "2026-05-06"
   },
   "Tomato SW Architecture": {
     "github": "sivaprasadreddy/tomato-architecture",
     "type": "Tutorial",
     "category": "Architecture",
-    "stars": 811,
+    "stars": 810,
     "forks": 37,
-    "last_updated": "2026-04-06"
+    "last_updated": "2026-05-06"
   },
   "Monitoring with Prometheus": {
     "github": "psibi/prometheus",
@@ -2187,7 +2187,7 @@
     "category": "DevOps",
     "stars": 5,
     "forks": 2,
-    "last_updated": "2026-04-06"
+    "last_updated": "2026-05-06"
   },
   "Zabbix Book": {
     "github": "Trikke76/Zabbix-Book",
@@ -2195,23 +2195,23 @@
     "category": "DevOps",
     "stars": 37,
     "forks": 7,
-    "last_updated": "2026-04-06"
+    "last_updated": "2026-05-06"
   },
   "devinterview.io Data Engineer": {
     "github": "Devinterview-io/data-engineer-interview-questions",
     "type": "Interview",
     "category": "DevOps",
-    "stars": 60,
-    "forks": 15,
-    "last_updated": "2026-04-06"
+    "stars": 64,
+    "forks": 16,
+    "last_updated": "2026-05-06"
   },
   "devinterview.io Data Analyst": {
     "github": "Devinterview-io/data-analyst-interview-questions",
     "type": "Interview",
     "category": "ML",
-    "stars": 44,
+    "stars": 46,
     "forks": 8,
-    "last_updated": "2026-04-06"
+    "last_updated": "2026-05-06"
   },
   "devinterview.io Dimensionality": {
     "github": "Devinterview-io/curse-of-dimensionality-interview-questions",
@@ -2219,15 +2219,15 @@
     "category": "ML",
     "stars": 8,
     "forks": 1,
-    "last_updated": "2026-04-06"
+    "last_updated": "2026-05-06"
   },
   "devinterview.io Apache Spark": {
     "github": "Devinterview-io/apache-spark-interview-questions",
     "type": "Interview",
     "category": "ML",
-    "stars": 33,
-    "forks": 15,
-    "last_updated": "2026-04-06"
+    "stars": 35,
+    "forks": 16,
+    "last_updated": "2026-05-06"
   },
   "devinterview.io XML": {
     "github": "Devinterview-io/xml-interview-questions",
