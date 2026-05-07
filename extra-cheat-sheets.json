@@ -2235,15 +2235,15 @@
     "category": "DevOps",
     "stars": 3,
     "forks": 1,
-    "last_updated": "2026-04-07"
+    "last_updated": "2026-05-07"
   },
   "devinterview.io Architecture": {
     "github": "Devinterview-io/software-architecture-interview-questions",
     "type": "Interview",
     "category": "Architecture",
-    "stars": 148,
+    "stars": 150,
     "forks": 43,
-    "last_updated": "2026-04-07"
+    "last_updated": "2026-05-07"
   },
   "devinterview.io SOA": {
     "github": "Devinterview-io/service-oriented-architecture-interview-questions",
@@ -2251,15 +2251,15 @@
     "category": "Architecture",
     "stars": 12,
     "forks": 4,
-    "last_updated": "2026-04-07"
+    "last_updated": "2026-05-07"
   },
   "devinterview.io Microservices": {
     "github": "Devinterview-io/microservices-interview-questions",
     "type": "Interview",
     "category": "Architecture",
-    "stars": 132,
+    "stars": 133,
     "forks": 55,
-    "last_updated": "2026-04-07"
+    "last_updated": "2026-05-07"
   },
   "devinterview.io NOSQL": {
     "github": "Devinterview-io/nosql-interview-questions",
@@ -2267,7 +2267,7 @@
     "category": "DevOps",
     "stars": 28,
     "forks": 10,
-    "last_updated": "2026-04-07"
+    "last_updated": "2026-05-07"
   },
   "devinterview.io Loadbalancing": {
     "github": "Devinterview-io/load-balancing-interview-questions",
@@ -2275,7 +2275,7 @@
     "category": "DevOps",
     "stars": 21,
     "forks": 10,
-    "last_updated": "2026-04-07"
+    "last_updated": "2026-05-07"
   },
   "devinterview.io Middleware": {
     "github": "Devinterview-io/layering-and-middleware-interview-questions",
@@ -2283,39 +2283,39 @@
     "category": "Architecture",
     "stars": 14,
     "forks": 3,
-    "last_updated": "2026-04-07"
+    "last_updated": "2026-05-07"
   },
   "devinterview.io Docker": {
     "github": "Devinterview-io/docker-interview-questions",
     "type": "Interview",
     "category": "DevOps",
-    "stars": 86,
+    "stars": 90,
     "forks": 47,
-    "last_updated": "2026-04-07"
+    "last_updated": "2026-05-07"
   },
   "devinterview.io DDD": {
     "github": "Devinterview-io/domain-driven-design-interview-questions",
     "type": "Interview",
     "category": "Architecture",
     "stars": 18,
-    "forks": 5,
-    "last_updated": "2026-04-07"
+    "forks": 6,
+    "last_updated": "2026-05-07"
   },
   "devinterview.io kubernetes": {
     "github": "Devinterview-io/kubernetes-interview-questions",
     "type": "Interview",
     "category": "DevOps",
-    "stars": 45,
-    "forks": 33,
-    "last_updated": "2026-04-07"
+    "stars": 50,
+    "forks": 36,
+    "last_updated": "2026-05-07"
   },
   "devinterview.io CAP theorem": {
     "github": "Devinterview-io/cap-theorem-interview-questions",
     "type": "Interview",
     "category": "Architecture",
-    "stars": 21,
+    "stars": 23,
     "forks": 9,
-    "last_updated": "2026-04-07"
+    "last_updated": "2026-05-07"
   },
   "devinterview.io availability": {
     "github": "Devinterview-io/availability-and-reliability-interview-questions",
@@ -2323,15 +2323,15 @@
     "category": "DevOps",
     "stars": 12,
     "forks": 5,
-    "last_updated": "2026-04-07"
+    "last_updated": "2026-05-07"
   },
   "devinterview.io AWS": {
     "github": "Devinterview-io/aws-interview-questions",
     "type": "Interview",
     "category": "Cloud",
-    "stars": 227,
-    "forks": 180,
-    "last_updated": "2026-04-07"
+    "stars": 242,
+    "forks": 199,
+    "last_updated": "2026-05-07"
   },
   "devinterview.io Azure": {
     "github": "Devinterview-io/azure-interview-questions",
@@ -2339,15 +2339,15 @@
     "category": "Cloud",
     "stars": 29,
     "forks": 32,
-    "last_updated": "2026-04-07"
+    "last_updated": "2026-05-07"
   },
   "Everything curl": {
     "github": "curl/everything-curl",
     "type": "Book",
     "category": "DevOps",
-    "stars": 2233,
-    "forks": 335,
-    "last_updated": "2026-04-07"
+    "stars": 2238,
+    "forks": 332,
+    "last_updated": "2026-05-07"
   },
   "Linux Kernel Docs": {
     "github": "bryancandi/LinuxKernelDocs",
