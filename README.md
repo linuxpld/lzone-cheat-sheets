@@ -603,25 +603,25 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [WTFJS](https://github.com/denysdovhan/wtfjs) | ⭐37608 | 📕 Book | Programming | 
 | [What is Enterprise Architecture](https://github.com/justinamiller/EnterpriseArchitecture) | ⭐253 | 📄 Docs | Architecture | 
 | [Xapax Security](https://github.com/xapax/security) | ⭐1033 | 📓 Cheat Sheet | Security | 
-| [Zabbix Book](https://github.com/Trikke76/Zabbix-Book) | ⭐37 | 📕 Book | DevOps | 
+| [Zabbix Book](https://github.com/Trikke76/Zabbix-Book) | ⭐38 | 📕 Book | DevOps | 
 | [arc42 Documentation](https://github.com/arc42/docs.arc42.org-site) | ⭐66 | 📄 Docs | Architecture | 
 | [awesome Architecture](https://github.com/mehdihadeli/awesome-software-architecture) | ⭐11186 | 👍 Awesome | Architecture | 
 | [devhints.io](https://github.com/rstacruz/cheatsheets) | ⭐14419 | 📓 Cheat Sheet | DevOps | 
 | [devinterview.io AWS](https://github.com/Devinterview-io/aws-interview-questions) | ⭐242 | 💬 Interview | Cloud | 
-| [devinterview.io Apache Spark](https://github.com/Devinterview-io/apache-spark-interview-questions) | ⭐35 | 💬 Interview | ML | 
-| [devinterview.io Architecture](https://github.com/Devinterview-io/software-architecture-interview-questions) | ⭐150 | 💬 Interview | Architecture | 
+| [devinterview.io Apache Spark](https://github.com/Devinterview-io/apache-spark-interview-questions) | ⭐38 | 💬 Interview | ML | 
+| [devinterview.io Architecture](https://github.com/Devinterview-io/software-architecture-interview-questions) | ⭐155 | 💬 Interview | Architecture | 
 | [devinterview.io Azure](https://github.com/Devinterview-io/azure-interview-questions) | ⭐29 | 💬 Interview | Cloud | 
 | [devinterview.io CAP theorem](https://github.com/Devinterview-io/cap-theorem-interview-questions) | ⭐23 | 💬 Interview | Architecture | 
 | [devinterview.io DDD](https://github.com/Devinterview-io/domain-driven-design-interview-questions) | ⭐18 | 💬 Interview | Architecture | 
-| [devinterview.io Data Analyst](https://github.com/Devinterview-io/data-analyst-interview-questions) | ⭐46 | 💬 Interview | ML | 
-| [devinterview.io Data Engineer](https://github.com/Devinterview-io/data-engineer-interview-questions) | ⭐64 | 💬 Interview | DevOps | 
+| [devinterview.io Data Analyst](https://github.com/Devinterview-io/data-analyst-interview-questions) | ⭐60 | 💬 Interview | ML | 
+| [devinterview.io Data Engineer](https://github.com/Devinterview-io/data-engineer-interview-questions) | ⭐89 | 💬 Interview | DevOps | 
 | [devinterview.io Dimensionality](https://github.com/Devinterview-io/curse-of-dimensionality-interview-questions) | ⭐8 | 💬 Interview | ML | 
-| [devinterview.io Docker](https://github.com/Devinterview-io/docker-interview-questions) | ⭐90 | 💬 Interview | DevOps | 
-| [devinterview.io Loadbalancing](https://github.com/Devinterview-io/load-balancing-interview-questions) | ⭐21 | 💬 Interview | DevOps | 
-| [devinterview.io Microservices](https://github.com/Devinterview-io/microservices-interview-questions) | ⭐133 | 💬 Interview | Architecture | 
-| [devinterview.io Middleware](https://github.com/Devinterview-io/layering-and-middleware-interview-questions) | ⭐14 | 💬 Interview | Architecture | 
-| [devinterview.io NOSQL](https://github.com/Devinterview-io/nosql-interview-questions) | ⭐28 | 💬 Interview | DevOps | 
-| [devinterview.io SOA](https://github.com/Devinterview-io/service-oriented-architecture-interview-questions) | ⭐12 | 💬 Interview | Architecture | 
+| [devinterview.io Docker](https://github.com/Devinterview-io/docker-interview-questions) | ⭐92 | 💬 Interview | DevOps | 
+| [devinterview.io Loadbalancing](https://github.com/Devinterview-io/load-balancing-interview-questions) | ⭐22 | 💬 Interview | DevOps | 
+| [devinterview.io Microservices](https://github.com/Devinterview-io/microservices-interview-questions) | ⭐136 | 💬 Interview | Architecture | 
+| [devinterview.io Middleware](https://github.com/Devinterview-io/layering-and-middleware-interview-questions) | ⭐15 | 💬 Interview | Architecture | 
+| [devinterview.io NOSQL](https://github.com/Devinterview-io/nosql-interview-questions) | ⭐30 | 💬 Interview | DevOps | 
+| [devinterview.io SOA](https://github.com/Devinterview-io/service-oriented-architecture-interview-questions) | ⭐13 | 💬 Interview | Architecture | 
 | [devinterview.io XML](https://github.com/Devinterview-io/xml-interview-questions) | ⭐3 | 💬 Interview | DevOps | 
 | [devinterview.io availability](https://github.com/Devinterview-io/availability-and-reliability-interview-questions) | ⭐12 | 💬 Interview | DevOps | 
 | [devinterview.io kubernetes](https://github.com/Devinterview-io/kubernetes-interview-questions) | ⭐50 | 💬 Interview | DevOps | 
