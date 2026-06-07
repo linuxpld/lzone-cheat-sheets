@@ -2297,17 +2297,17 @@
     "github": "Devinterview-io/domain-driven-design-interview-questions",
     "type": "Interview",
     "category": "Architecture",
-    "stars": 18,
+    "stars": 21,
     "forks": 6,
-    "last_updated": "2026-05-07"
+    "last_updated": "2026-06-07"
   },
   "devinterview.io kubernetes": {
     "github": "Devinterview-io/kubernetes-interview-questions",
     "type": "Interview",
     "category": "DevOps",
-    "stars": 50,
+    "stars": 51,
     "forks": 36,
-    "last_updated": "2026-05-07"
+    "last_updated": "2026-06-07"
   },
   "devinterview.io CAP theorem": {
     "github": "Devinterview-io/cap-theorem-interview-questions",
@@ -2315,39 +2315,39 @@
     "category": "Architecture",
     "stars": 23,
     "forks": 9,
-    "last_updated": "2026-05-07"
+    "last_updated": "2026-06-07"
   },
   "devinterview.io availability": {
     "github": "Devinterview-io/availability-and-reliability-interview-questions",
     "type": "Interview",
     "category": "DevOps",
-    "stars": 12,
+    "stars": 13,
     "forks": 5,
-    "last_updated": "2026-05-07"
+    "last_updated": "2026-06-07"
   },
   "devinterview.io AWS": {
     "github": "Devinterview-io/aws-interview-questions",
     "type": "Interview",
     "category": "Cloud",
-    "stars": 242,
-    "forks": 199,
-    "last_updated": "2026-05-07"
+    "stars": 253,
+    "forks": 202,
+    "last_updated": "2026-06-07"
   },
   "devinterview.io Azure": {
     "github": "Devinterview-io/azure-interview-questions",
     "type": "Interview",
     "category": "Cloud",
-    "stars": 29,
-    "forks": 32,
-    "last_updated": "2026-05-07"
+    "stars": 31,
+    "forks": 34,
+    "last_updated": "2026-06-07"
   },
   "Everything curl": {
     "github": "curl/everything-curl",
     "type": "Book",
     "category": "DevOps",
-    "stars": 2238,
-    "forks": 332,
-    "last_updated": "2026-05-07"
+    "stars": 2251,
+    "forks": 333,
+    "last_updated": "2026-06-07"
   },
   "Linux Kernel Docs": {
     "github": "bryancandi/LinuxKernelDocs",
@@ -2356,31 +2356,31 @@
     "filePattern": "^assetpack/src/main/assets/(.+\\.html)$",
     "stars": 1,
     "forks": 0,
-    "last_updated": "2026-05-08"
+    "last_updated": "2026-06-07"
   },
   "Documentation Ansible": {
     "github": "ansible/ansible-documentation",
     "type": "Documentation",
     "category": "DevOps",
     "filePattern": "docs/docsite/rst/(.+\\.rst)$",
-    "stars": 163,
-    "forks": 811,
-    "last_updated": "2026-05-08"
+    "stars": 166,
+    "forks": 818,
+    "last_updated": "2026-06-07"
   },
   "Embedded New Testament": {
     "github": "theEmbeddedGeorge/theEmbeddedNewTestament.github.io",
     "type": "Documentation",
     "category": "Development",
-    "stars": 776,
-    "forks": 174,
-    "last_updated": "2026-05-08"
+    "stars": 835,
+    "forks": 180,
+    "last_updated": "2026-06-07"
   },
   "x86 bare metal examples": {
     "github": "cirosantilli/x86-bare-metal-examples",
     "type": "Tutorial",
     "category": "Development",
-    "stars": 5278,
-    "forks": 422,
-    "last_updated": "2026-05-08"
+    "stars": 5299,
+    "forks": 425,
+    "last_updated": "2026-06-07"
   }
 }
