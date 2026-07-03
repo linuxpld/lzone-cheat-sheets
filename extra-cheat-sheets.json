@@ -1728,60 +1728,60 @@
     "category": "DevOps",
     "stars": 84,
     "forks": 22,
-    "last_updated": "2026-06-02"
+    "last_updated": "2026-07-03"
   },
   "Jaeger Distributed Tracing": {
     "github": "jaegertracing/documentation",
     "filePattern": "^contents/docs/(.+)\\.md$",
     "type": "Documentation",
     "category": "DevOps",
-    "stars": 83,
+    "stars": 82,
     "forks": 189,
-    "last_updated": "2026-06-02"
+    "last_updated": "2026-07-03"
   },
   "Documentation knative": {
     "github": "knative/docs",
     "filePattern": "^docs/docs/(.+)\\.md",
     "type": "Documentation",
     "category": "DevOps",
-    "stars": 5049,
-    "forks": 1270,
-    "last_updated": "2026-06-02"
+    "stars": 5066,
+    "forks": 1269,
+    "last_updated": "2026-07-03"
   },
   "Documentation OpenTelemetry": {
     "github": "open-telemetry/opentelemetry.io",
     "filePattern": "^content/en/(.+)\\.md",
     "type": "Documentation",
     "category": "DevOps",
-    "stars": 903,
-    "forks": 1798,
-    "last_updated": "2026-06-02"
+    "stars": 927,
+    "forks": 1848,
+    "last_updated": "2026-07-03"
   },
   "Documentation Openshift": {
     "github": "openshift/openshift-docs",
     "filePattern": "^([^_].+).adoc$",
     "type": "Documentation",
     "category": "DevOps",
-    "stars": 860,
-    "forks": 1898,
-    "last_updated": "2026-06-02"
+    "stars": 869,
+    "forks": 1909,
+    "last_updated": "2026-07-03"
   },
   "Documentation CircleCI": {
     "github": "circleci/circleci-docs",
     "filePattern": "^jekyll/_cci2/(.+).adoc$",
     "type": "Documentation",
     "category": "DevOps",
-    "stars": 844,
-    "forks": 1493,
-    "last_updated": "2026-06-02"
+    "stars": 849,
+    "forks": 1496,
+    "last_updated": "2026-07-03"
   },
   "Documentation cfengine": {
     "github": "cfengine/documentation",
     "type": "Documentation",
     "category": "DevOps",
     "stars": 37,
-    "forks": 74,
-    "last_updated": "2026-06-02"
+    "forks": 76,
+    "last_updated": "2026-07-03"
   },
   "Documentation Cacti": {
     "github": "Cacti/documentation",
@@ -1789,39 +1789,39 @@
     "category": "DevOps",
     "stars": 62,
     "forks": 52,
-    "last_updated": "2026-06-02"
+    "last_updated": "2026-07-03"
   },
   "Learning Path k8s": {
     "github": "techiescamp/kubernetes-learning-path",
     "type": "Learning Path",
     "category": "DevOps",
-    "stars": 7541,
-    "forks": 992,
-    "last_updated": "2026-06-02"
+    "stars": 7576,
+    "forks": 998,
+    "last_updated": "2026-07-03"
   },
   "Learning Path k8s (Microsoft)": {
     "github": "microsoft/kubernetes-learning-path",
     "type": "Learning Path",
     "category": "DevOps",
     "stars": 398,
-    "forks": 133,
-    "last_updated": "2026-06-02"
+    "forks": 132,
+    "last_updated": "2026-07-03"
   },
   "Learning Path FullStack Web Dev": {
     "github": "shovanch/fullstack-web-developer-path",
     "type": "Learning Path",
     "category": "Development",
-    "stars": 3472,
-    "forks": 618,
-    "last_updated": "2026-06-02"
+    "stars": 3474,
+    "forks": 615,
+    "last_updated": "2026-07-03"
   },
   "Learning Path Functional Programming": {
     "github": "imteekay/functional-programming-learning-path",
     "type": "Learning Path",
     "category": "Development",
-    "stars": 1041,
+    "stars": 1043,
     "forks": 84,
-    "last_updated": "2026-06-03"
+    "last_updated": "2026-07-03"
   },
   "Learning Path Springboot Microservices": {
     "github": "TechPrimers/learning-path-spring-boot-microservices",
@@ -1829,24 +1829,24 @@
     "category": "Development",
     "stars": 298,
     "forks": 157,
-    "last_updated": "2026-06-03"
+    "last_updated": "2026-07-03"
   },
   "Learning Path Thinkerhub": {
     "github": "tinkerhub/TinkerHub-Learning-Paths",
     "filePattern": "^content/(.+)\\.md$",
     "type": "Learning Path",
     "category": "Development",
-    "stars": 66,
-    "forks": 71,
-    "last_updated": "2026-06-03"
+    "stars": 67,
+    "forks": 70,
+    "last_updated": "2026-07-03"
   },
   "Learning Path by Role": {
     "github": "belatrix/learningPaths",
     "type": "Learning Path",
     "category": "Development",
-    "stars": 30,
+    "stars": 29,
     "forks": 28,
-    "last_updated": "2026-06-03"
+    "last_updated": "2026-07-03"
   },
   "Learning Path System Design": {
     "github": "TechPrimers/learning-path-system-design",
@@ -1854,15 +1854,15 @@
     "category": "Architecture",
     "stars": 84,
     "forks": 35,
-    "last_updated": "2026-06-03"
+    "last_updated": "2026-07-03"
   },
   "Learning Path Senior Developer": {
     "github": "joebew42/study-path",
     "type": "Learning Path",
     "category": "Development",
-    "stars": 2987,
-    "forks": 353,
-    "last_updated": "2026-06-03"
+    "stars": 2993,
+    "forks": 351,
+    "last_updated": "2026-07-03"
   },
   "Learning Path Data Science": {
     "github": "myarist/Data-Science-Learning-Path",
