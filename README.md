@@ -358,7 +358,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [30s-of-code JS](https://github.com/30-seconds/30-seconds-of-code) |  | 📓 Cheat Sheet | Development | 
 | [30s-of-code Python](https://github.com/30-seconds/30-seconds-of-python) |  | 📓 Cheat Sheet | Development | 
 | [AWK anti-textbook](https://github.com/thewhitetulip/awk-anti-textbook) | ⭐744 | 💡 Tutorial | DevOps | 
-| [AWS EKS Best Practices](https://github.com/aws/aws-eks-best-practices) | ⭐2153 | 📄 Docs | DevOps | 
+| [AWS EKS Best Practices](https://github.com/aws/aws-eks-best-practices) | ⭐2155 | 📄 Docs | DevOps | 
 | [AWS EKS Workshop](https://github.com/aws-samples/eks-workshop-v2) | ⭐608 | 📄 Docs | Cloud | 
 | [AWS ELB Best Practices](https://github.com/aws/aws-elb-best-practices) | ⭐34 | 📄 Docs | DevOps | 
 | [AWS S3 Python](https://github.com/nagwww/aws-s3-book) | ⭐31 | 📕 Book | DevOps | 
@@ -366,7 +366,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [AWSCookbook Security](https://github.com/AWSCookbook/Security) | ⭐51 | 📄 Docs | Security | 
 | [Ansible Tutorial](https://github.com/leucos/ansible-tuto) | ⭐2296 | 📄 Docs | DevOps | 
 | [ArchiMate CheatSheet](https://github.com/SixArm/archimate-examples) | ⭐6 | 📓 Cheat Sheet | Architecture | 
-| [ArchiMate Intro](https://github.com/yasenstar/ArchiMetal_Practice) | ⭐37 | 💡 Tutorial | Architecture | 
+| [ArchiMate Intro](https://github.com/yasenstar/ArchiMetal_Practice) | ⭐38 | 💡 Tutorial | Architecture | 
 | [Architecture Books](https://github.com/mhadidg/software-architecture-books) | ⭐11065 | 👍 Awesome | Architecture | 
 | [Architecture Decision Records](https://github.com/joelparkerhenderson/architecture-decision-record) | ⭐15702 | 📄 Docs | Architecture | 
 | [Architecture Domain Driven Hexagon](https://github.com/Sairyss/domain-driven-hexagon) | ⭐14736 | 📄 Docs | Architecture | 
@@ -482,7 +482,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Google DevOps Governance](https://github.com/google/devops-governance) | ⭐84 | 📄 Docs | DevOps | 
 | [Google Engineering Practices](https://github.com/google/eng-practices) | ⭐23298 | 📓 Cheat Sheet | DevOps | 
 | [How Programming Works](https://github.com/HowProgrammingWorks/Book) | ⭐499 | 📕 Book | Development | 
-| [How to secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | ⭐27717 | 📄 Docs | Security | 
+| [How to secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | ⭐28166 | 📄 Docs | Security | 
 | [IMDB Data in the Terminal](https://github.com/vvijayan1/imdb_data_on_terminal) | ⭐7 | 💡 Tutorial | ML | 
 | [Interview Questions: 30s-of-code JS](https://github.com/30-seconds/30-seconds-of-interviews) |  | 📓 Cheat Sheet | Development | 
 | [Interview Questions: Android](https://github.com/amitshekhariitbhu/android-interview-questions) | ⭐12347 | 💬 Interview | ML | 
@@ -501,7 +501,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Javascript NPM with ES Modules](https://github.com/transitive-bullshit/npm-es-modules) | ⭐75 | 📄 Docs | Programming | 
 | [Kafka Architecture](https://github.com/anhthii/kafka-notes) | ⭐125 | 📄 Docs | Architecture | 
 | [LZone Cheat Sheets](https://github.com/lwindolf/lzone-cheat-sheets) | ⭐336 | 📓 Cheat Sheet | DevOps | 
-| [Learn CLI text processing](https://github.com/learnbyexample/Command-line-text-processing) | ⭐10185 | 💡 Tutorial | DevOps | 
+| [Learn CLI text processing](https://github.com/learnbyexample/Command-line-text-processing) | ⭐10190 | 💡 Tutorial | DevOps | 
 | [Learn Regex](https://github.com/ziishaned/learn-regex) | ⭐46088 | 📓 Cheat Sheet | Programming | 
 | [Learn To Cloud](https://github.com/learntocloud/learn-to-cloud) | ⭐5768 | 💡 Tutorial | DevOps | 
 | [Learn UML2](https://github.com/imalitavakoli/learn-uml2) | ⭐124 | 📕 Book | Architecture | 
@@ -592,8 +592,8 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [System Design 101](https://github.com/ByteByteGoHq/system-design-101) | ⭐83633 | 💬 Interview | DevOps | 
 | [System Design Primer](https://github.com/donnemartin/system-design-primer) | ⭐354378 | 💬 Interview | DevOps | 
 | [Tekton 101](https://github.com/dewan-ahmed/Tekton101) | ⭐9 | 💡 Tutorial | DevOps | 
-| [Terraform Zero to Hero](https://github.com/iam-veeramalla/terraform-zero-to-hero) | ⭐4073 | 📄 Docs | DevOps | 
-| [The Bread Code](https://github.com/hendricius/the-bread-code) | ⭐4137 | 📕 Book | DevOps | 
+| [Terraform Zero to Hero](https://github.com/iam-veeramalla/terraform-zero-to-hero) | ⭐4133 | 📄 Docs | DevOps | 
+| [The Bread Code](https://github.com/hendricius/the-bread-code) | ⭐4138 | 📕 Book | DevOps | 
 | [The JS Way](https://github.com/thejsway/thejsway) | ⭐7884 | 📕 Book | Development | 
 | [Tomato SW Architecture](https://github.com/sivaprasadreddy/tomato-architecture) | ⭐812 | 💡 Tutorial | Architecture | 
 | [Tutorial RabbitMQ](https://github.com/Frodo-Web/frodo-tips) | ⭐2 | 💡 Tutorial | DevOps | 
@@ -605,7 +605,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Xapax Security](https://github.com/xapax/security) | ⭐1038 | 📓 Cheat Sheet | Security | 
 | [Zabbix Book](https://github.com/Trikke76/Zabbix-Book) | ⭐38 | 📕 Book | DevOps | 
 | [arc42 Documentation](https://github.com/arc42/docs.arc42.org-site) | ⭐66 | 📄 Docs | Architecture | 
-| [awesome Architecture](https://github.com/mehdihadeli/awesome-software-architecture) | ⭐11186 | 👍 Awesome | Architecture | 
+| [awesome Architecture](https://github.com/mehdihadeli/awesome-software-architecture) | ⭐11325 | 👍 Awesome | Architecture | 
 | [devhints.io](https://github.com/rstacruz/cheatsheets) | ⭐14433 | 📓 Cheat Sheet | DevOps | 
 | [devinterview.io AWS](https://github.com/Devinterview-io/aws-interview-questions) | ⭐253 | 💬 Interview | Cloud | 
 | [devinterview.io Apache Spark](https://github.com/Devinterview-io/apache-spark-interview-questions) | ⭐38 | 💬 Interview | ML | 
