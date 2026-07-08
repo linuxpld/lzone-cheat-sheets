@@ -607,24 +607,24 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [arc42 Documentation](https://github.com/arc42/docs.arc42.org-site) | ⭐66 | 📄 Docs | Architecture | 
 | [awesome Architecture](https://github.com/mehdihadeli/awesome-software-architecture) | ⭐11325 | 👍 Awesome | Architecture | 
 | [devhints.io](https://github.com/rstacruz/cheatsheets) | ⭐14433 | 📓 Cheat Sheet | DevOps | 
-| [devinterview.io AWS](https://github.com/Devinterview-io/aws-interview-questions) | ⭐253 | 💬 Interview | Cloud | 
+| [devinterview.io AWS](https://github.com/Devinterview-io/aws-interview-questions) | ⭐282 | 💬 Interview | Cloud | 
 | [devinterview.io Apache Spark](https://github.com/Devinterview-io/apache-spark-interview-questions) | ⭐38 | 💬 Interview | ML | 
-| [devinterview.io Architecture](https://github.com/Devinterview-io/software-architecture-interview-questions) | ⭐155 | 💬 Interview | Architecture | 
-| [devinterview.io Azure](https://github.com/Devinterview-io/azure-interview-questions) | ⭐31 | 💬 Interview | Cloud | 
+| [devinterview.io Architecture](https://github.com/Devinterview-io/software-architecture-interview-questions) | ⭐162 | 💬 Interview | Architecture | 
+| [devinterview.io Azure](https://github.com/Devinterview-io/azure-interview-questions) | ⭐32 | 💬 Interview | Cloud | 
 | [devinterview.io CAP theorem](https://github.com/Devinterview-io/cap-theorem-interview-questions) | ⭐23 | 💬 Interview | Architecture | 
 | [devinterview.io DDD](https://github.com/Devinterview-io/domain-driven-design-interview-questions) | ⭐21 | 💬 Interview | Architecture | 
 | [devinterview.io Data Analyst](https://github.com/Devinterview-io/data-analyst-interview-questions) | ⭐71 | 💬 Interview | ML | 
 | [devinterview.io Data Engineer](https://github.com/Devinterview-io/data-engineer-interview-questions) | ⭐94 | 💬 Interview | DevOps | 
 | [devinterview.io Dimensionality](https://github.com/Devinterview-io/curse-of-dimensionality-interview-questions) | ⭐8 | 💬 Interview | ML | 
-| [devinterview.io Docker](https://github.com/Devinterview-io/docker-interview-questions) | ⭐92 | 💬 Interview | DevOps | 
-| [devinterview.io Loadbalancing](https://github.com/Devinterview-io/load-balancing-interview-questions) | ⭐22 | 💬 Interview | DevOps | 
-| [devinterview.io Microservices](https://github.com/Devinterview-io/microservices-interview-questions) | ⭐136 | 💬 Interview | Architecture | 
-| [devinterview.io Middleware](https://github.com/Devinterview-io/layering-and-middleware-interview-questions) | ⭐15 | 💬 Interview | Architecture | 
-| [devinterview.io NOSQL](https://github.com/Devinterview-io/nosql-interview-questions) | ⭐30 | 💬 Interview | DevOps | 
-| [devinterview.io SOA](https://github.com/Devinterview-io/service-oriented-architecture-interview-questions) | ⭐13 | 💬 Interview | Architecture | 
+| [devinterview.io Docker](https://github.com/Devinterview-io/docker-interview-questions) | ⭐95 | 💬 Interview | DevOps | 
+| [devinterview.io Loadbalancing](https://github.com/Devinterview-io/load-balancing-interview-questions) | ⭐23 | 💬 Interview | DevOps | 
+| [devinterview.io Microservices](https://github.com/Devinterview-io/microservices-interview-questions) | ⭐140 | 💬 Interview | Architecture | 
+| [devinterview.io Middleware](https://github.com/Devinterview-io/layering-and-middleware-interview-questions) | ⭐16 | 💬 Interview | Architecture | 
+| [devinterview.io NOSQL](https://github.com/Devinterview-io/nosql-interview-questions) | ⭐31 | 💬 Interview | DevOps | 
+| [devinterview.io SOA](https://github.com/Devinterview-io/service-oriented-architecture-interview-questions) | ⭐14 | 💬 Interview | Architecture | 
 | [devinterview.io XML](https://github.com/Devinterview-io/xml-interview-questions) | ⭐3 | 💬 Interview | DevOps | 
-| [devinterview.io availability](https://github.com/Devinterview-io/availability-and-reliability-interview-questions) | ⭐13 | 💬 Interview | DevOps | 
-| [devinterview.io kubernetes](https://github.com/Devinterview-io/kubernetes-interview-questions) | ⭐51 | 💬 Interview | DevOps | 
+| [devinterview.io availability](https://github.com/Devinterview-io/availability-and-reliability-interview-questions) | ⭐15 | 💬 Interview | DevOps | 
+| [devinterview.io kubernetes](https://github.com/Devinterview-io/kubernetes-interview-questions) | ⭐56 | 💬 Interview | DevOps | 
 | [eg Cheat Sheets](https://github.com/srsudar/eg) | ⭐2027 | 📓 Cheat Sheet | DevOps | 
 | [golang Cheat Sheet](https://github.com/a8m/golang-cheat-sheet) | ⭐8803 | 📓 Cheat Sheet | Programming | 
 | [k8s CKAD Tutorial](https://github.com/madhank93/learn-k8s-ckad) | ⭐28 | 💡 Tutorial | DevOps | 
