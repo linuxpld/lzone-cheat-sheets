@@ -1081,9 +1081,9 @@
     "github": "ddd-crew/core-domain-charts",
     "category": "Architecture",
     "type": "Documentation",
-    "stars": 612,
+    "stars": 614,
     "forks": 47,
-    "last_updated": "2026-06-28"
+    "last_updated": "2026-07-28"
   },
   "Documentation Prometheus": {
     "github": "prometheus/docs",
@@ -1425,50 +1425,50 @@
     "filePattern": "^files/en-us/web/xslt/(.+)\\.md$",
     "category": "Web",
     "type": "Documentation",
-    "stars": 10835,
-    "forks": 23202,
-    "last_updated": "2026-06-28"
+    "stars": 10898,
+    "forks": 23186,
+    "last_updated": "2026-07-28"
   },
   "Documentation docker-bench-security": {
     "github": "docker/docker-bench-security",
     "category": "Security",
     "type": "Documentation",
-    "stars": 9662,
-    "forks": 1039,
-    "last_updated": "2026-06-28"
+    "stars": 9677,
+    "forks": 1038,
+    "last_updated": "2026-07-28"
   },
   "Documentation kubebench": {
     "github": "aquasecurity/kube-bench",
     "category": "Security",
     "type": "Documentation",
-    "stars": 8088,
-    "forks": 1329,
-    "last_updated": "2026-06-28"
+    "stars": 8116,
+    "forks": 1335,
+    "last_updated": "2026-07-28"
   },
   "Free Tier SaaS List": {
     "github": "ripienaar/free-for-dev",
     "category": "SaaS",
     "type": "Cheat Sheet",
-    "stars": 125117,
-    "forks": 13156,
-    "last_updated": "2026-06-28"
+    "stars": 130649,
+    "forks": 13682,
+    "last_updated": "2026-07-28"
   },
   "Favicon Cheat Sheet": {
     "github": "audreyfeldroy/favicon-cheat-sheet",
     "category": "Web",
     "type": "Cheat Sheet",
-    "stars": 9907,
+    "stars": 9904,
     "forks": 399,
-    "last_updated": "2026-06-28"
+    "last_updated": "2026-07-28"
   },
   "Documentation Linode": {
     "github": "linode/docs",
     "filePatern": "^doc/(.+)/index.md",
     "category": "SaaS",
     "type": "Documentation",
-    "stars": 1396,
-    "forks": 1198,
-    "last_updated": "2026-06-28"
+    "stars": 1394,
+    "forks": 1194,
+    "last_updated": "2026-07-28"
   },
   "Nature of Code": {
     "github": "nature-of-code/noc-book-2023",
@@ -1480,17 +1480,17 @@
     "github": "plantuml-stdlib/C4-PlantUML",
     "category": "Architecture",
     "type": "Documentation",
-    "stars": 7333,
+    "stars": 7361,
     "forks": 1167,
-    "last_updated": "2026-06-28"
+    "last_updated": "2026-07-28"
   },
   "SysML v2 Documentation": {
     "github": "Systems-Modeling/SysML-v2-Release",
     "category": "Architecture",
     "type": "Documentation",
-    "stars": 865,
-    "forks": 131,
-    "last_updated": "2026-06-28"
+    "stars": 887,
+    "forks": 137,
+    "last_updated": "2026-07-28"
   },
   "Learn UML2": {
     "github": "imalitavakoli/learn-uml2",
@@ -1498,7 +1498,7 @@
     "type": "Book",
     "stars": 124,
     "forks": 29,
-    "last_updated": "2026-06-28"
+    "last_updated": "2026-07-28"
   },
   "Cloud Provider Cheat Sheets": {
     "github": "JeffDeCola/my-cheat-sheets",
@@ -1507,56 +1507,56 @@
     "type": "Cheat Sheet",
     "stars": 130,
     "forks": 42,
-    "last_updated": "2026-06-28"
+    "last_updated": "2026-07-28"
   },
   "Documentation juju": {
     "github": "juju/juju",
     "filePattern": "^doc/(.+)\\.md$",
     "category": "DevOps",
     "type": "Documentation",
-    "stars": 2636,
-    "forks": 590,
-    "last_updated": "2026-06-28"
+    "stars": 2644,
+    "forks": 592,
+    "last_updated": "2026-07-28"
   },
   "Naming Cheat Sheet": {
     "github": "kettanaito/naming-cheatsheet",
     "category": "Programming",
     "type": "Cheat Sheet",
-    "stars": 14193,
+    "stars": 14187,
     "forks": 957,
-    "last_updated": "2026-06-28"
+    "last_updated": "2026-07-28"
   },
   "nginx Admin Handbook": {
     "github": "trimstray/nginx-admins-handbook",
     "category": "DevOps",
     "type": "Documentation",
-    "stars": 14190,
-    "forks": 1126,
-    "last_updated": "2026-06-28"
+    "stars": 14220,
+    "forks": 1134,
+    "last_updated": "2026-07-28"
   },
   "golang Cheat Sheet": {
     "github": "a8m/golang-cheat-sheet",
     "category": "Programming",
     "type": "Cheat Sheet",
-    "stars": 8803,
-    "forks": 1116,
-    "last_updated": "2026-06-28"
+    "stars": 8816,
+    "forks": 1118,
+    "last_updated": "2026-07-28"
   },
   "Python Tutorial": {
     "github": "Akuli/python-tutorial",
     "category": "DevOps",
     "type": "Book",
-    "stars": 1541,
+    "stars": 1543,
     "forks": 632,
-    "last_updated": "2026-06-28"
+    "last_updated": "2026-07-28"
   },
   "Python Introcution: Byte of Python": {
     "github": "swaroopch/byte-of-python",
     "category": "DevOps",
     "type": "Book",
-    "stars": 2475,
+    "stars": 2486,
     "forks": 1103,
-    "last_updated": "2026-06-28"
+    "last_updated": "2026-07-28"
   },
   "Bash by Example": {
     "github": "cheatsnake/bash-scripts-by-example",
@@ -1564,7 +1564,7 @@
     "type": "Cheat Sheet",
     "stars": 61,
     "forks": 16,
-    "last_updated": "2026-06-28"
+    "last_updated": "2026-07-28"
   },
   "Backend Development Whitepaper": {
     "github": "cheatsnake/backend-cheats",
