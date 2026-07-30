@@ -234,18 +234,18 @@
     "filePattern": "^books/free-programming-books-(langs|subjects)\\.md$",
     "category": "Development",
     "type": "Book",
-    "stars": 391037,
-    "forks": 66471,
-    "last_updated": "2026-06-30"
+    "stars": 393364,
+    "forks": 66583,
+    "last_updated": "2026-07-30"
   },
   "How Programming Works": {
     "github": "HowProgrammingWorks/Book",
     "filePattern": "^content/en/([^/]+)\\.md$",
     "category": "Development",
     "type": "Book",
-    "stars": 499,
+    "stars": 500,
     "forks": 85,
-    "last_updated": "2026-06-30"
+    "last_updated": "2026-07-30"
   },
   "The JS Way": {
     "github": "thejsway/thejsway",
@@ -253,8 +253,8 @@
     "category": "Development",
     "type": "Book",
     "stars": 7884,
-    "forks": 796,
-    "last_updated": "2026-06-30"
+    "forks": 794,
+    "last_updated": "2026-07-30"
   },
   "reactnative.guide": {
     "github": "react-made-native-easy/book",
@@ -267,27 +267,27 @@
     "filePattern": "^en/(go)\\.md$",
     "category": "Development",
     "type": "Book",
-    "stars": 2333,
-    "forks": 276,
-    "last_updated": "2026-06-30"
+    "stars": 2338,
+    "forks": 277,
+    "last_updated": "2026-07-30"
   },
   "Little MongoDB Book": {
     "github": "karlseguin/the-little-mongodb-book",
     "filePattern": "^en/(.+).markdown$",
     "category": "Development",
     "type": "Book",
-    "stars": 1491,
-    "forks": 350,
-    "last_updated": "2026-06-30"
+    "stars": 1488,
+    "forks": 348,
+    "last_updated": "2026-07-30"
   },
   "Little Redis Book": {
     "github": "karlseguin/the-little-redis-book",
     "filePattern": "^en/(.+)\\.md$",
     "category": "Development",
     "type": "Book",
-    "stars": 1458,
+    "stars": 1459,
     "forks": 485,
-    "last_updated": "2026-06-30"
+    "last_updated": "2026-07-30"
   },
   "30s-of-code JS": {
     "github": "30-seconds/30-seconds-of-code",
@@ -332,7 +332,7 @@
     "category": "DevOps",
     "stars": 221,
     "forks": 299,
-    "last_updated": "2026-06-30"
+    "last_updated": "2026-07-30"
   },
   "Geo Data Science Book": {
     "github": "gdsbook/book",
@@ -340,70 +340,70 @@
     "category": "ML",
     "type": "Book",
     "stars": 362,
-    "forks": 103,
-    "last_updated": "2026-06-30"
+    "forks": 104,
+    "last_updated": "2026-07-30"
   },
   "Interview Questions: Android": {
     "github": "amitshekhariitbhu/android-interview-questions",
     "filePattern": "^(README)\\.md$",
     "category": "ML",
     "type": "Interview",
-    "stars": 12347,
-    "forks": 2383,
-    "last_updated": "2026-06-30"
+    "stars": 12352,
+    "forks": 2384,
+    "last_updated": "2026-07-30"
   },
   "Interview Questions: Data Science": {
     "github": "alexeygrigorev/data-science-interviews",
     "filePattern": "^(.+)\\.md$",
     "category": "ML",
     "type": "Interview",
-    "stars": 10058,
-    "forks": 2144,
-    "last_updated": "2026-06-30"
+    "stars": 10093,
+    "forks": 2155,
+    "last_updated": "2026-07-30"
   },
   "Interview Questions: Linux Sysadmin": {
     "github": "chassing/linux-sysadmin-interview-questions",
     "filePattern": "^(README)\\.md$",
     "category": "DevOps",
     "type": "Interview",
-    "stars": 5321,
-    "forks": 1208,
-    "last_updated": "2026-06-30"
+    "stars": 5325,
+    "forks": 1209,
+    "last_updated": "2026-07-30"
   },
   "Interview Questions: FAANG": {
     "github": "ombharatiya/FAANG-Coding-Interview-Questions",
     "filePattern": "^(.+)\\.md$",
     "category": "Development",
     "type": "Interview",
-    "stars": 5322,
-    "forks": 1325,
-    "last_updated": "2026-06-30"
+    "stars": 5612,
+    "forks": 1371,
+    "last_updated": "2026-07-30"
   },
   "Interview Questions: ML": {
     "github": "Sroy20/machine-learning-interview-questions",
     "filePattern": "^(.+)\\.md$",
     "category": "ML",
     "type": "Interview",
-    "stars": 1644,
-    "forks": 398,
-    "last_updated": "2026-06-30"
+    "stars": 1653,
+    "forks": 397,
+    "last_updated": "2026-07-30"
   },
   "Interview Questions: System Design": {
     "github": "shashank88/system_design",
     "filePattern": "^(.+)\\.md$",
     "category": "Architecture",
     "type": "Interview",
-    "stars": 9222,
-    "forks": 2487,
-    "last_updated": "2026-06-30"
+    "stars": 9236,
+    "forks": 2488,
+    "last_updated": "2026-07-30"
   },
   "Interview Questions: System Design and Architecture": {
     "github": "puncsky/system-design-and-architecture",
     "category": "Architecture",
     "type": "Interview",
-    "stars": 3435,
-    "forks": 671,
-    "last_updated": "2026-06-30"
+    "stars": 3480,
+    "forks": 686,
+    "last_updated": "2026-07-30"
   },
   "Interview Questions: Java": {
     "github": "in28minutes/interview-guide",
@@ -412,16 +412,16 @@
     "type": "Interview",
     "stars": 309,
     "forks": 232,
-    "last_updated": "2026-06-30"
+    "last_updated": "2026-07-30"
   },
   "Meta Checklist": {
     "github": "huyingjie/Checklist-Checklist",
     "filePattern": "^(.+)\\.md$",
     "category": "DevOps",
     "type": "Documentation",
-    "stars": 2952,
+    "stars": 2957,
     "forks": 138,
-    "last_updated": "2026-06-30"
+    "last_updated": "2026-07-30"
   },
   "Documentation Helm": {
     "github": "helm/helm-www",
@@ -1570,9 +1570,9 @@
     "github": "cheatsnake/backend-cheats",
     "category": "Programming",
     "type": "Book",
-    "stars": 4645,
-    "forks": 476,
-    "last_updated": "2026-06-30"
+    "stars": 4988,
+    "forks": 509,
+    "last_updated": "2026-07-30"
   },
   "MITM Cheat Sheet": {
     "github": "frostbits-security/MITM-cheatsheet",
