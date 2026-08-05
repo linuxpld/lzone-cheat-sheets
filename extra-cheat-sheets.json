@@ -2131,25 +2131,25 @@
     "github": "stemmlerjs/software-design-and-architecture-roadmap",
     "type": "Learning Path",
     "category": "Development",
-    "stars": 3404,
+    "stars": 3406,
     "forks": 417,
-    "last_updated": "2026-07-06"
+    "last_updated": "2026-08-05"
   },
   "Solution Architecture Links": {
     "github": "unlight/solution-architecture",
     "type": "Awesome",
     "category": "Architecture",
-    "stars": 695,
-    "forks": 280,
-    "last_updated": "2026-07-06"
+    "stars": 696,
+    "forks": 283,
+    "last_updated": "2026-08-05"
   },
   "nocomplexity Architecture Playbook": {
     "github": "nocomplexity/ArchitecturePlaybook",
     "type": "Documentation",
     "category": "Architecture",
-    "stars": 735,
-    "forks": 68,
-    "last_updated": "2026-07-06"
+    "stars": 739,
+    "forks": 69,
+    "last_updated": "2026-08-05"
   },
   "Awesome Clean Architecture": {
     "github": "dgomezs/awesome-clean-architecture",
@@ -2161,25 +2161,25 @@
     "type": "Tutorial",
     "category": "Architecture",
     "filePattern": "^i18n/en/docusaurus-plugin-content-docs/current/get-started/(tutorial).md$",
-    "stars": 2307,
-    "forks": 222,
-    "last_updated": "2026-07-06"
+    "stars": 2330,
+    "forks": 224,
+    "last_updated": "2026-08-05"
   },
   "What is Enterprise Architecture": {
     "github": "justinamiller/EnterpriseArchitecture",
     "type": "Documentation",
     "category": "Architecture",
-    "stars": 253,
+    "stars": 256,
     "forks": 58,
-    "last_updated": "2026-07-06"
+    "last_updated": "2026-08-05"
   },
   "Tomato SW Architecture": {
     "github": "sivaprasadreddy/tomato-architecture",
     "type": "Tutorial",
     "category": "Architecture",
-    "stars": 813,
+    "stars": 812,
     "forks": 37,
-    "last_updated": "2026-07-06"
+    "last_updated": "2026-08-05"
   },
   "Monitoring with Prometheus": {
     "github": "psibi/prometheus",
@@ -2187,7 +2187,7 @@
     "category": "DevOps",
     "stars": 5,
     "forks": 2,
-    "last_updated": "2026-07-06"
+    "last_updated": "2026-08-05"
   },
   "Zabbix Book": {
     "github": "Trikke76/Zabbix-Book",
@@ -2195,23 +2195,23 @@
     "category": "DevOps",
     "stars": 38,
     "forks": 6,
-    "last_updated": "2026-07-06"
+    "last_updated": "2026-08-05"
   },
   "devinterview.io Data Engineer": {
     "github": "Devinterview-io/data-engineer-interview-questions",
     "type": "Interview",
     "category": "DevOps",
-    "stars": 94,
+    "stars": 99,
     "forks": 25,
-    "last_updated": "2026-07-06"
+    "last_updated": "2026-08-05"
   },
   "devinterview.io Data Analyst": {
     "github": "Devinterview-io/data-analyst-interview-questions",
     "type": "Interview",
     "category": "ML",
-    "stars": 71,
-    "forks": 11,
-    "last_updated": "2026-07-06"
+    "stars": 77,
+    "forks": 12,
+    "last_updated": "2026-08-05"
   },
   "devinterview.io Dimensionality": {
     "github": "Devinterview-io/curse-of-dimensionality-interview-questions",
@@ -2219,15 +2219,15 @@
     "category": "ML",
     "stars": 8,
     "forks": 1,
-    "last_updated": "2026-07-06"
+    "last_updated": "2026-08-05"
   },
   "devinterview.io Apache Spark": {
     "github": "Devinterview-io/apache-spark-interview-questions",
     "type": "Interview",
     "category": "ML",
-    "stars": 38,
+    "stars": 39,
     "forks": 19,
-    "last_updated": "2026-07-06"
+    "last_updated": "2026-08-05"
   },
   "devinterview.io XML": {
     "github": "Devinterview-io/xml-interview-questions",
