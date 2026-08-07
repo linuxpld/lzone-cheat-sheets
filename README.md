@@ -607,10 +607,10 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [arc42 Documentation](https://github.com/arc42/docs.arc42.org-site) | ⭐68 | 📄 Docs | Architecture | 
 | [awesome Architecture](https://github.com/mehdihadeli/awesome-software-architecture) | ⭐11523 | 👍 Awesome | Architecture | 
 | [devhints.io](https://github.com/rstacruz/cheatsheets) | ⭐14449 | 📓 Cheat Sheet | DevOps | 
-| [devinterview.io AWS](https://github.com/Devinterview-io/aws-interview-questions) | ⭐282 | 💬 Interview | Cloud | 
+| [devinterview.io AWS](https://github.com/Devinterview-io/aws-interview-questions) | ⭐285 | 💬 Interview | Cloud | 
 | [devinterview.io Apache Spark](https://github.com/Devinterview-io/apache-spark-interview-questions) | ⭐39 | 💬 Interview | ML | 
 | [devinterview.io Architecture](https://github.com/Devinterview-io/software-architecture-interview-questions) | ⭐166 | 💬 Interview | Architecture | 
-| [devinterview.io Azure](https://github.com/Devinterview-io/azure-interview-questions) | ⭐32 | 💬 Interview | Cloud | 
+| [devinterview.io Azure](https://github.com/Devinterview-io/azure-interview-questions) | ⭐34 | 💬 Interview | Cloud | 
 | [devinterview.io CAP theorem](https://github.com/Devinterview-io/cap-theorem-interview-questions) | ⭐23 | 💬 Interview | Architecture | 
 | [devinterview.io DDD](https://github.com/Devinterview-io/domain-driven-design-interview-questions) | ⭐22 | 💬 Interview | Architecture | 
 | [devinterview.io Data Analyst](https://github.com/Devinterview-io/data-analyst-interview-questions) | ⭐77 | 💬 Interview | ML | 
