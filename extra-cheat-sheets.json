@@ -4,18 +4,18 @@
     "filePattern": "^Cheat Sheets/(.*)\\.md$",
     "type": "Cheat Sheet",
     "category": "DevOps",
-    "stars": 338,
+    "stars": 339,
     "forks": 524,
-    "last_updated": "2026-07-22"
+    "last_updated": "2026-08-21"
   },
   "Video Tutorials": {
     "github": "lwindolf/lzone-cheat-sheets",
     "filePattern": "^Video Tutorials/(.*)\\.md$",
     "type": "Tutorial",
     "category": "DevOps",
-    "stars": 338,
+    "stars": 339,
     "forks": 524,
-    "last_updated": "2026-07-22"
+    "last_updated": "2026-08-21"
   },
   "Cognitive Load": {
     "github": "zakirullin/cognitive-load",
@@ -428,27 +428,27 @@
     "filePattern": "^content/en/docs/(.+).md$",
     "category": "DevOps",
     "type": "Documentation",
-    "stars": 228,
-    "forks": 615,
-    "last_updated": "2026-07-22"
+    "stars": 229,
+    "forks": 619,
+    "last_updated": "2026-08-21"
   },
   "k8s the hard way": {
     "github": "kelseyhightower/kubernetes-the-hard-way",
     "filePattern": "^docs/(.+)\\.md$",
     "category": "DevOps",
     "type": "Tutorial",
-    "stars": 49205,
-    "forks": 15772,
-    "last_updated": "2026-07-22"
+    "stars": 49524,
+    "forks": 15825,
+    "last_updated": "2026-08-21"
   },
   "k8s NetworkPolicy Tutorial": {
     "github": "networkpolicy/tutorial",
     "filePattern": "^(README)\\.md$",
     "category": "DevOps",
     "type": "Tutorial",
-    "stars": 153,
+    "stars": 154,
     "forks": 33,
-    "last_updated": "2026-07-22"
+    "last_updated": "2026-08-21"
   },
   "k8s Istio Tutorial": {
     "github": "kelseyhightower/istio-ingress-tutorial",
@@ -457,16 +457,16 @@
     "type": "Tutorial",
     "stars": 321,
     "forks": 54,
-    "last_updated": "2026-07-22"
+    "last_updated": "2026-08-21"
   },
   "k8s Nomand Tutorial": {
     "github": "kelseyhightower/nomad-on-kubernetes",
     "filePattern": "^docs/(.+)\\.md$",
     "category": "DevOps",
     "type": "Tutorial",
-    "stars": 354,
+    "stars": 356,
     "forks": 49,
-    "last_updated": "2026-07-22"
+    "last_updated": "2026-08-21"
   },
   "k8s Tekton Tutorial": {
     "github": "harbur/tekton-tutorial",
@@ -475,7 +475,7 @@
     "type": "Tutorial",
     "stars": 9,
     "forks": 13,
-    "last_updated": "2026-07-22"
+    "last_updated": "2026-08-21"
   },
   "Tekton 101": {
     "github": "dewan-ahmed/Tekton101",
@@ -483,7 +483,7 @@
     "type": "Tutorial",
     "stars": 9,
     "forks": 26,
-    "last_updated": "2026-07-22"
+    "last_updated": "2026-08-21"
   },
   "k8s CKAD Tutorial": {
     "github": "madhank93/learn-k8s-ckad",
@@ -491,16 +491,16 @@
     "type": "Tutorial",
     "stars": 28,
     "forks": 13,
-    "last_updated": "2026-07-22"
+    "last_updated": "2026-08-21"
   },
   "Python Machine Learning": {
     "github": "rasbt/python-machine-learning-book-3rd-edition",
     "filePattern": "^([^/]+)/README.md$",
     "category": "ML",
     "type": "Book",
-    "stars": 5033,
-    "forks": 2062,
-    "last_updated": "2026-07-22"
+    "stars": 5046,
+    "forks": 2058,
+    "last_updated": "2026-08-21"
   },
   "IMDB Data in the Terminal": {
     "github": "vvijayan1/imdb_data_on_terminal",
@@ -508,25 +508,25 @@
     "type": "Tutorial",
     "stars": 7,
     "forks": 0,
-    "last_updated": "2026-07-22"
+    "last_updated": "2026-08-21"
   },
   "System Design 101": {
     "github": "ByteByteGoHq/system-design-101",
     "filePattern": "^(README)\\.md$",
     "category": "DevOps",
     "type": "Interview",
-    "stars": 86330,
-    "forks": 9583,
-    "last_updated": "2026-07-22"
+    "stars": 87388,
+    "forks": 9725,
+    "last_updated": "2026-08-21"
   },
   "System Design Primer": {
     "github": "donnemartin/system-design-primer",
     "filePattern": "^(README.*)\\.md$",
     "category": "DevOps",
     "type": "Interview",
-    "stars": 358774,
-    "forks": 57346,
-    "last_updated": "2026-07-22"
+    "stars": 365302,
+    "forks": 57992,
+    "last_updated": "2026-08-21"
   },
   "Cloud Outages Index": {
     "github": "lwindolf/cloud-outages",
@@ -534,48 +534,48 @@
     "category": "DevOps",
     "stars": 3,
     "forks": 0,
-    "last_updated": "2026-07-22"
+    "last_updated": "2026-08-21"
   },
   "Learn To Cloud": {
     "github": "learntocloud/learn-to-cloud",
     "filePattern": "^docs/(.*)/README.md$",
     "type": "Tutorial",
     "category": "DevOps",
-    "stars": 5770,
-    "forks": 906,
-    "last_updated": "2026-07-22"
+    "stars": 5773,
+    "forks": 907,
+    "last_updated": "2026-08-21"
   },
   "Google Cloud Guide": {
     "github": "mikeroyal/Google-Cloud-Guide",
     "type": "Cheat Sheet",
     "category": "DevOps",
-    "stars": 203,
-    "forks": 62,
-    "last_updated": "2026-07-22"
+    "stars": 205,
+    "forks": 63,
+    "last_updated": "2026-08-21"
   },
   "Awesome Security": {
     "github": "zbetcheckin/Security_list",
     "type": "Awesome",
     "category": "Security",
-    "stars": 1875,
-    "forks": 348,
-    "last_updated": "2026-07-22"
+    "stars": 1879,
+    "forks": 349,
+    "last_updated": "2026-08-21"
   },
   "Awesome Cloud Security": {
     "github": "4ndersonLin/awesome-cloud-security",
     "type": "Awesome",
     "category": "Security",
-    "stars": 2469,
-    "forks": 371,
-    "last_updated": "2026-07-22"
+    "stars": 2480,
+    "forks": 374,
+    "last_updated": "2026-08-21"
   },
   "Awesome AWS Security": {
     "github": "jassics/awesome-aws-security",
     "type": "Awesome",
     "category": "Security",
-    "stars": 1578,
+    "stars": 1582,
     "forks": 328,
-    "last_updated": "2026-07-22"
+    "last_updated": "2026-08-21"
   },
   "AWSCookbook Security": {
     "github": "AWSCookbook/Security",
@@ -584,15 +584,15 @@
     "category": "Security",
     "stars": 50,
     "forks": 44,
-    "last_updated": "2026-07-22"
+    "last_updated": "2026-08-21"
   },
   "Awesome k8s Security": {
     "github": "magnologan/awesome-k8s-security",
     "type": "Awesome",
     "category": "Security",
-    "stars": 2003,
-    "forks": 298,
-    "last_updated": "2026-07-22"
+    "stars": 2007,
+    "forks": 299,
+    "last_updated": "2026-08-21"
   },
   "Reverse Shells": {
     "github": "d4t4s3c/Offensive-Reverse-Shell-Cheat-Sheet",
