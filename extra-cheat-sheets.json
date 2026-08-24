@@ -967,9 +967,9 @@
     "filePattern": "^(.+)\\.md$",
     "category": "DevOps",
     "type": "Cheat Sheet",
-    "stars": 3488,
+    "stars": 3492,
     "forks": 284,
-    "last_updated": "2026-07-25"
+    "last_updated": "2026-08-24"
   },
   "Kafka Architecture": {
     "github": "anhthii/kafka-notes",
@@ -977,7 +977,7 @@
     "type": "Documentation",
     "stars": 126,
     "forks": 65,
-    "last_updated": "2026-07-25"
+    "last_updated": "2026-08-24"
   },
   "Databases Introduction": {
     "github": "anhthii/database-notes",
@@ -986,16 +986,16 @@
     "type": "Book",
     "stars": 62,
     "forks": 22,
-    "last_updated": "2026-07-25"
+    "last_updated": "2026-08-24"
   },
   "ElasticSearch Examples": {
     "github": "elastic/examples",
     "filePattern": "^(.+)\\.md$",
     "category": "DevOps",
     "type": "Documentation",
-    "stars": 2650,
-    "forks": 1214,
-    "last_updated": "2026-07-25"
+    "stars": 2649,
+    "forks": 1210,
+    "last_updated": "2026-08-24"
   },
   "ElasticSearch Architecture": {
     "github": "gose/elastic-architectures",
@@ -1011,47 +1011,47 @@
     "type": "Documentation",
     "stars": 25,
     "forks": 2,
-    "last_updated": "2026-07-25"
+    "last_updated": "2026-08-24"
   },
   "Architecture Domain Driven Hexagon": {
     "github": "Sairyss/domain-driven-hexagon",
     "category": "Architecture",
     "type": "Documentation",
-    "stars": 14810,
-    "forks": 1562,
-    "last_updated": "2026-07-25"
+    "stars": 14883,
+    "forks": 1560,
+    "last_updated": "2026-08-24"
   },
   "Architecture Microservices": {
     "github": "rodrigorodrigues/microservices-design-patterns",
     "category": "Architecture",
     "type": "Documentation",
     "stars": 186,
-    "forks": 69,
-    "last_updated": "2026-07-25"
+    "forks": 70,
+    "last_updated": "2026-08-24"
   },
   "DDD by Examples": {
     "github": "ddd-by-examples/library",
     "category": "Architecture",
     "type": "Documentation",
-    "stars": 5828,
-    "forks": 828,
-    "last_updated": "2026-07-25"
+    "stars": 5849,
+    "forks": 831,
+    "last_updated": "2026-08-24"
   },
   "DDD Starter Modelling": {
     "github": "ddd-crew/ddd-starter-modelling-process",
     "category": "Architecture",
     "type": "Documentation",
-    "stars": 5941,
+    "stars": 5992,
     "forks": 568,
-    "last_updated": "2026-07-25"
+    "last_updated": "2026-08-24"
   },
   "DDD Context Mapping": {
     "github": "ddd-crew/context-mapping",
     "category": "Architecture",
     "type": "Documentation",
-    "stars": 1828,
+    "stars": 1843,
     "forks": 155,
-    "last_updated": "2026-07-25"
+    "last_updated": "2026-08-24"
   },
   "DDD Miro Templates": {
     "github": "ddd-crew/virtual-modelling-templates",
@@ -1059,23 +1059,23 @@
     "type": "Documentation",
     "stars": 84,
     "forks": 12,
-    "last_updated": "2026-07-25"
+    "last_updated": "2026-08-24"
   },
   "Design: Aggregate Design Canvas": {
     "github": "ddd-crew/aggregate-design-canvas",
     "category": "Architecture",
     "type": "Documentation",
-    "stars": 817,
-    "forks": 76,
-    "last_updated": "2026-07-25"
+    "stars": 819,
+    "forks": 77,
+    "last_updated": "2026-08-24"
   },
   "Design: Bounded Context Canvas": {
     "github": "ddd-crew/bounded-context-canvas",
     "category": "Architecture",
     "type": "Documentation",
-    "stars": 2040,
-    "forks": 191,
-    "last_updated": "2026-07-25"
+    "stars": 2046,
+    "forks": 193,
+    "last_updated": "2026-08-24"
   },
   "Design: Core Domain Charts": {
     "github": "ddd-crew/core-domain-charts",
@@ -1090,18 +1090,18 @@
     "filePattern": "^content/docs/(.+)\\.md$",
     "category": "DevOps",
     "type": "Documentation",
-    "stars": 716,
-    "forks": 1132,
-    "last_updated": "2026-07-25"
+    "stars": 717,
+    "forks": 1140,
+    "last_updated": "2026-08-24"
   },
   "Documentation Prometheus Alertmanager": {
     "github": "prometheus/alertmanager",
     "filePattern": "^docs/(.+)\\.md$",
     "category": "DevOps",
     "type": "Documentation",
-    "stars": 8555,
-    "forks": 2439,
-    "last_updated": "2026-07-25"
+    "stars": 8593,
+    "forks": 2448,
+    "last_updated": "2026-08-24"
   },
   "Documentation Prometheus Operator": {
     "github": "prometheus-operator/prometheus-operator",

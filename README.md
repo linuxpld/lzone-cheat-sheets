@@ -369,7 +369,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [ArchiMate Intro](https://github.com/yasenstar/ArchiMetal_Practice) | ⭐38 | 💡 Tutorial | Architecture | 
 | [Architecture Books](https://github.com/mhadidg/software-architecture-books) | ⭐11305 | 👍 Awesome | Architecture | 
 | [Architecture Decision Records](https://github.com/joelparkerhenderson/architecture-decision-record) | ⭐15702 | 📄 Docs | Architecture | 
-| [Architecture Domain Driven Hexagon](https://github.com/Sairyss/domain-driven-hexagon) | ⭐14810 | 📄 Docs | Architecture | 
+| [Architecture Domain Driven Hexagon](https://github.com/Sairyss/domain-driven-hexagon) | ⭐14883 | 📄 Docs | Architecture | 
 | [Architecture Enterprise Patterns](https://github.com/chanakaudaya/solution-architecture-patterns) | ⭐3461 | 📄 Docs | Architecture | 
 | [Architecture Microservices](https://github.com/rodrigorodrigues/microservices-design-patterns) | ⭐186 | 📄 Docs | Architecture | 
 | [Awesome AWS Security](https://github.com/jassics/awesome-aws-security) | ⭐1582 | 👍 Awesome | Security | 
@@ -402,13 +402,13 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Cloud Provider Cheat Sheets](https://github.com/JeffDeCola/my-cheat-sheets) | ⭐130 | 📓 Cheat Sheet | DevOps | 
 | [Coding Interview University](https://github.com/jwasham/coding-interview-university) | ⭐357733 | 📄 Docs | Development | 
 | [Cognitive Load](https://github.com/zakirullin/cognitive-load) | ⭐12464 | 💡 Tutorial | Programming | 
-| [DDD Context Mapping](https://github.com/ddd-crew/context-mapping) | ⭐1828 | 📄 Docs | Architecture | 
+| [DDD Context Mapping](https://github.com/ddd-crew/context-mapping) | ⭐1843 | 📄 Docs | Architecture | 
 | [DDD Miro Templates](https://github.com/ddd-crew/virtual-modelling-templates) | ⭐84 | 📄 Docs | Architecture | 
-| [DDD Starter Modelling](https://github.com/ddd-crew/ddd-starter-modelling-process) | ⭐5941 | 📄 Docs | Architecture | 
-| [DDD by Examples](https://github.com/ddd-by-examples/library) | ⭐5828 | 📄 Docs | Architecture | 
+| [DDD Starter Modelling](https://github.com/ddd-crew/ddd-starter-modelling-process) | ⭐5992 | 📄 Docs | Architecture | 
+| [DDD by Examples](https://github.com/ddd-by-examples/library) | ⭐5849 | 📄 Docs | Architecture | 
 | [Databases Introduction](https://github.com/anhthii/database-notes) | ⭐62 | 📕 Book | Architecture | 
-| [Design: Aggregate Design Canvas](https://github.com/ddd-crew/aggregate-design-canvas) | ⭐817 | 📄 Docs | Architecture | 
-| [Design: Bounded Context Canvas](https://github.com/ddd-crew/bounded-context-canvas) | ⭐2040 | 📄 Docs | Architecture | 
+| [Design: Aggregate Design Canvas](https://github.com/ddd-crew/aggregate-design-canvas) | ⭐819 | 📄 Docs | Architecture | 
+| [Design: Bounded Context Canvas](https://github.com/ddd-crew/bounded-context-canvas) | ⭐2046 | 📄 Docs | Architecture | 
 | [Design: Core Domain Charts](https://github.com/ddd-crew/core-domain-charts) | ⭐614 | 📄 Docs | Architecture | 
 | [DevOps Video Tutorials](https://github.com/antonputra/tutorials) | ⭐4676 | 📄 Docs | DevOps | 
 | [DevSecOps Maturity Model](https://github.com/devsecopsmaturitymodel/DevSecOps-MaturityModel) | ⭐583 | 📄 Docs | DevOps | 
@@ -442,8 +442,8 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Documentation OpenTelemetry](https://github.com/open-telemetry/opentelemetry.io) | ⭐943 | 📄 Docs | DevOps | 
 | [Documentation Openshift](https://github.com/openshift/openshift-docs) | ⭐874 | 📄 Docs | DevOps | 
 | [Documentation Powershell](https://github.com/MicrosoftDocs/PowerShell-Docs) | ⭐2526 | 📄 Docs | DevOps | 
-| [Documentation Prometheus](https://github.com/prometheus/docs) | ⭐716 | 📄 Docs | DevOps | 
-| [Documentation Prometheus Alertmanager](https://github.com/prometheus/alertmanager) | ⭐8555 | 📄 Docs | DevOps | 
+| [Documentation Prometheus](https://github.com/prometheus/docs) | ⭐717 | 📄 Docs | DevOps | 
+| [Documentation Prometheus Alertmanager](https://github.com/prometheus/alertmanager) | ⭐8593 | 📄 Docs | DevOps | 
 | [Documentation Prometheus Operator](https://github.com/prometheus-operator/prometheus-operator) | ⭐9965 | 📄 Docs | DevOps | 
 | [Documentation Puppet](https://github.com/puppetlabs/puppet-docs) | ⭐221 | 📄 Docs | DevOps | 
 | [Documentation RabbitMQ](https://github.com/rabbitmq/rabbitmq-website) | ⭐1216 | 📄 Docs | DevOps | 
@@ -462,7 +462,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Documentation rundeck](https://github.com/rundeck/docs) | ⭐87 | 📄 Docs | DevOps | 
 | [Elastic Data Lake Architecture](https://github.com/gose/elastic-data-lake) | ⭐25 | 📄 Docs | Architecture | 
 | [ElasticSearch Architecture](https://github.com/gose/elastic-architectures) | ⭐5 | 📄 Docs | Architecture | 
-| [ElasticSearch Examples](https://github.com/elastic/examples) | ⭐2650 | 📄 Docs | DevOps | 
+| [ElasticSearch Examples](https://github.com/elastic/examples) | ⭐2649 | 📄 Docs | DevOps | 
 | [Embedded New Testament](https://github.com/theEmbeddedGeorge/theEmbeddedNewTestament.github.io) | ⭐931 | 📄 Docs | Development | 
 | [Everything curl](https://github.com/curl/everything-curl) | ⭐2261 | 📕 Book | DevOps | 
 | [Excel Cheat Sheet](https://github.com/emanuelefavero/excel) | ⭐4 | 📓 Cheat Sheet | DevOps | 
@@ -560,7 +560,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Monitoring with Prometheus](https://github.com/psibi/prometheus) | ⭐5 | 📕 Book | DevOps | 
 | [Naming Cheat Sheet](https://github.com/kettanaito/naming-cheatsheet) | ⭐14187 | 📓 Cheat Sheet | Programming | 
 | [Nature of Code](https://github.com/nature-of-code/noc-book-2023) |  | 📕 Book | Programming | 
-| [Network Segmentation Cheat Sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) | ⭐3488 | 📓 Cheat Sheet | DevOps | 
+| [Network Segmentation Cheat Sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) | ⭐3492 | 📓 Cheat Sheet | DevOps | 
 | [OS Tutorial](https://github.com/cfenollosa/os-tutorial) | ⭐30662 | 📄 Docs | Programming | 
 | [OSS Vulnerability Guide](https://github.com/google/oss-vulnerability-guide) | ⭐143 | 📓 Cheat Sheet | Security | 
 | [OWASP Cheat Sheets Series](https://github.com/OWASP/CheatSheetSeries) | ⭐32701 | 📓 Cheat Sheet | Security | 
