@@ -409,7 +409,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Databases Introduction](https://github.com/anhthii/database-notes) | ⭐62 | 📕 Book | Architecture | 
 | [Design: Aggregate Design Canvas](https://github.com/ddd-crew/aggregate-design-canvas) | ⭐819 | 📄 Docs | Architecture | 
 | [Design: Bounded Context Canvas](https://github.com/ddd-crew/bounded-context-canvas) | ⭐2046 | 📄 Docs | Architecture | 
-| [Design: Core Domain Charts](https://github.com/ddd-crew/core-domain-charts) | ⭐614 | 📄 Docs | Architecture | 
+| [Design: Core Domain Charts](https://github.com/ddd-crew/core-domain-charts) | ⭐620 | 📄 Docs | Architecture | 
 | [DevOps Video Tutorials](https://github.com/antonputra/tutorials) | ⭐4676 | 📄 Docs | DevOps | 
 | [DevSecOps Maturity Model](https://github.com/devsecopsmaturitymodel/DevSecOps-MaturityModel) | ⭐583 | 📄 Docs | DevOps | 
 | [DevSecOps SLSA Framework](https://github.com/slsa-framework/slsa) | ⭐1912 | 📄 Docs | DevOps | 
@@ -451,7 +451,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Documentation Telegraf](https://github.com/influxdata/telegraf) | ⭐17765 | 📄 Docs | DevOps | 
 | [Documentation TravisCI](https://github.com/travis-ci/docs-travis-ci-com) | ⭐641 | 📄 Docs | DevOps | 
 | [Documentation cfengine](https://github.com/cfengine/documentation) | ⭐37 | 📄 Docs | DevOps | 
-| [Documentation docker-bench-security](https://github.com/docker/docker-bench-security) | ⭐9677 | 📄 Docs | Security | 
+| [Documentation docker-bench-security](https://github.com/docker/docker-bench-security) | ⭐9693 | 📄 Docs | Security | 
 | [Documentation juju](https://github.com/juju/juju) | ⭐2644 | 📄 Docs | DevOps | 
 | [Documentation knative](https://github.com/knative/docs) | ⭐5070 | 📄 Docs | DevOps | 
 | [Documentation kubebench](https://github.com/aquasecurity/kube-bench) | ⭐8116 | 📄 Docs | Security | 
@@ -534,23 +534,23 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [MDN exslt](https://github.com/mdn/content) | ⭐10953 | 📄 Docs | Web | 
 | [MDN guide](https://github.com/mdn/content) | ⭐10953 | 📄 Docs | Web | 
 | [MDN html](https://github.com/mdn/content) | ⭐10953 | 📄 Docs | Web | 
-| [MDN http](https://github.com/mdn/content) | ⭐10897 | 📄 Docs | Web | 
-| [MDN javascript](https://github.com/mdn/content) | ⭐10897 | 📄 Docs | Web | 
-| [MDN manifest](https://github.com/mdn/content) | ⭐10897 | 📄 Docs | Web | 
-| [MDN mathml](https://github.com/mdn/content) | ⭐10897 | 📄 Docs | Web | 
-| [MDN media](https://github.com/mdn/content) | ⭐10897 | 📄 Docs | Web | 
-| [MDN opensearch](https://github.com/mdn/content) | ⭐10897 | 📄 Docs | Web | 
-| [MDN performance](https://github.com/mdn/content) | ⭐10897 | 📄 Docs | Web | 
-| [MDN privacy](https://github.com/mdn/content) | ⭐10897 | 📄 Docs | Web | 
-| [MDN progressive_web_apps](https://github.com/mdn/content) | ⭐10897 | 📄 Docs | Web | 
-| [MDN security](https://github.com/mdn/content) | ⭐10897 | 📄 Docs | Web | 
-| [MDN svg](https://github.com/mdn/content) | ⭐10897 | 📄 Docs | Web | 
-| [MDN text_fragments](https://github.com/mdn/content) | ⭐10897 | 📄 Docs | Web | 
-| [MDN tutorials](https://github.com/mdn/content) | ⭐10897 | 📄 Docs | Web | 
-| [MDN webdriver](https://github.com/mdn/content) | ⭐10897 | 📄 Docs | Web | 
-| [MDN xml](https://github.com/mdn/content) | ⭐10897 | 📄 Docs | Web | 
-| [MDN xpath](https://github.com/mdn/content) | ⭐10897 | 📄 Docs | Web | 
-| [MDN xslt](https://github.com/mdn/content) | ⭐10898 | 📄 Docs | Web | 
+| [MDN http](https://github.com/mdn/content) | ⭐10956 | 📄 Docs | Web | 
+| [MDN javascript](https://github.com/mdn/content) | ⭐10956 | 📄 Docs | Web | 
+| [MDN manifest](https://github.com/mdn/content) | ⭐10956 | 📄 Docs | Web | 
+| [MDN mathml](https://github.com/mdn/content) | ⭐10956 | 📄 Docs | Web | 
+| [MDN media](https://github.com/mdn/content) | ⭐10956 | 📄 Docs | Web | 
+| [MDN opensearch](https://github.com/mdn/content) | ⭐10956 | 📄 Docs | Web | 
+| [MDN performance](https://github.com/mdn/content) | ⭐10956 | 📄 Docs | Web | 
+| [MDN privacy](https://github.com/mdn/content) | ⭐10956 | 📄 Docs | Web | 
+| [MDN progressive_web_apps](https://github.com/mdn/content) | ⭐10956 | 📄 Docs | Web | 
+| [MDN security](https://github.com/mdn/content) | ⭐10956 | 📄 Docs | Web | 
+| [MDN svg](https://github.com/mdn/content) | ⭐10956 | 📄 Docs | Web | 
+| [MDN text_fragments](https://github.com/mdn/content) | ⭐10956 | 📄 Docs | Web | 
+| [MDN tutorials](https://github.com/mdn/content) | ⭐10956 | 📄 Docs | Web | 
+| [MDN webdriver](https://github.com/mdn/content) | ⭐10956 | 📄 Docs | Web | 
+| [MDN xml](https://github.com/mdn/content) | ⭐10956 | 📄 Docs | Web | 
+| [MDN xpath](https://github.com/mdn/content) | ⭐10956 | 📄 Docs | Web | 
+| [MDN xslt](https://github.com/mdn/content) | ⭐10956 | 📄 Docs | Web | 
 | [MITM Cheat Sheet](https://github.com/frostbits-security/MITM-cheatsheet) | ⭐1042 | 📓 Cheat Sheet | Security | 
 | [MS Architecture Center](https://github.com/MicrosoftDocs/architecture-center) | ⭐2017 | 📄 Docs | Architecture | 
 | [MS Virtualization](https://github.com/MicrosoftDocs/Virtualization-Documentation) | ⭐1922 | 📄 Docs | DevOps | 
