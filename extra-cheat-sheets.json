@@ -2008,9 +2008,9 @@
     "github": "AnghelLeonard/Hibernate-SpringBoot",
     "type": "Documentation",
     "category": "Architecture",
-    "stars": 1372,
-    "forks": 538,
-    "last_updated": "2026-08-04"
+    "stars": 1371,
+    "forks": 537,
+    "last_updated": "2026-09-03"
   },
   "AWS EKS Best Practices": {
     "github": "aws/aws-eks-best-practices",
@@ -2018,8 +2018,8 @@
     "type": "Documentation",
     "category": "DevOps",
     "stars": 2157,
-    "forks": 564,
-    "last_updated": "2026-08-04"
+    "forks": 567,
+    "last_updated": "2026-09-03"
   },
   "AWS ELB Best Practices": {
     "github": "aws/aws-elb-best-practices",
@@ -2028,7 +2028,7 @@
     "category": "DevOps",
     "stars": 34,
     "forks": 6,
-    "last_updated": "2026-08-04"
+    "last_updated": "2026-09-03"
   },
   "Documentation kubeseal": {
     "github": "bitnami-labs/sealed-secrets",
@@ -2042,33 +2042,33 @@
     "github": "imthenachoman/How-To-Secure-A-Linux-Server",
     "type": "Documentation",
     "category": "Security",
-    "stars": 30176,
-    "forks": 2023,
-    "last_updated": "2026-08-04"
+    "stars": 31176,
+    "forks": 2102,
+    "last_updated": "2026-09-03"
   },
   "The Bread Code": {
     "github": "hendricius/the-bread-code",
     "type": "Book",
     "category": "DevOps",
-    "stars": 4138,
-    "forks": 182,
-    "last_updated": "2026-08-04"
+    "stars": 4142,
+    "forks": 181,
+    "last_updated": "2026-09-03"
   },
   "Terraform Zero to Hero": {
     "github": "iam-veeramalla/terraform-zero-to-hero",
     "type": "Documentation",
     "category": "DevOps",
-    "stars": 4193,
-    "forks": 19257,
-    "last_updated": "2026-08-04"
+    "stars": 4255,
+    "forks": 19487,
+    "last_updated": "2026-09-03"
   },
   "AWK anti-textbook": {
     "github": "thewhitetulip/awk-anti-textbook",
     "type": "Tutorial",
     "category": "DevOps",
-    "stars": 745,
+    "stars": 744,
     "forks": 37,
-    "last_updated": "2026-08-04"
+    "last_updated": "2026-09-03"
   },
   "Learn sed": {
     "github": "dohlee/learn-sed",
@@ -2076,15 +2076,15 @@
     "category": "DevOps",
     "stars": 2,
     "forks": 1,
-    "last_updated": "2026-08-04"
+    "last_updated": "2026-09-03"
   },
   "Learn CLI text processing": {
     "github": "learnbyexample/Command-line-text-processing",
     "type": "Tutorial",
     "category": "DevOps",
-    "stars": 10188,
-    "forks": 702,
-    "last_updated": "2026-08-04"
+    "stars": 10189,
+    "forks": 700,
+    "last_updated": "2026-09-03"
   },
   "Tutorial RabbitMQ": {
     "github": "Frodo-Web/frodo-tips",
@@ -2099,33 +2099,33 @@
     "github": "yasenstar/ArchiMetal_Practice",
     "type": "Tutorial",
     "category": "Architecture",
-    "stars": 38,
+    "stars": 40,
     "forks": 25,
-    "last_updated": "2026-08-04"
+    "last_updated": "2026-09-03"
   },
   "ArchiMate CheatSheet": {
     "github": "SixArm/archimate-examples",
     "type": "Cheat Sheet",
     "category": "Architecture",
-    "stars": 7,
+    "stars": 8,
     "forks": 4,
-    "last_updated": "2026-08-04"
+    "last_updated": "2026-09-03"
   },
   "arc42 Documentation": {
     "github": "arc42/docs.arc42.org-site",
     "type": "Documentation",
     "category": "Architecture",
     "stars": 68,
-    "forks": 29,
-    "last_updated": "2026-08-04"
+    "forks": 30,
+    "last_updated": "2026-09-03"
   },
   "awesome Architecture": {
     "github": "mehdihadeli/awesome-software-architecture",
     "type": "Awesome",
     "category": "Architecture",
-    "stars": 11523,
-    "forks": 1005,
-    "last_updated": "2026-08-04"
+    "stars": 11611,
+    "forks": 1015,
+    "last_updated": "2026-09-03"
   },
   "Learning Path Software Design": {
     "github": "stemmlerjs/software-design-and-architecture-roadmap",
