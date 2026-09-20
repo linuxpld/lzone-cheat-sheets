@@ -4,18 +4,18 @@
     "filePattern": "^Cheat Sheets/(.*)\\.md$",
     "type": "Cheat Sheet",
     "category": "DevOps",
-    "stars": 339,
-    "forks": 524,
-    "last_updated": "2026-08-21"
+    "stars": 340,
+    "forks": 525,
+    "last_updated": "2026-09-20"
   },
   "Video Tutorials": {
     "github": "lwindolf/lzone-cheat-sheets",
     "filePattern": "^Video Tutorials/(.*)\\.md$",
     "type": "Tutorial",
     "category": "DevOps",
-    "stars": 339,
-    "forks": 524,
-    "last_updated": "2026-08-21"
+    "stars": 340,
+    "forks": 525,
+    "last_updated": "2026-09-20"
   },
   "Cognitive Load": {
     "github": "zakirullin/cognitive-load",
