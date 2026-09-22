@@ -363,7 +363,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [AWS ELB Best Practices](https://github.com/aws/aws-elb-best-practices) | ⭐34 | 📄 Docs | DevOps | 
 | [AWS S3 Python](https://github.com/nagwww/aws-s3-book) | ⭐31 | 📕 Book | DevOps | 
 | [AWS Serverless Workshop](https://github.com/aws-samples/aws-serverless-workshops) | ⭐4260 | 📄 Docs | Cloud | 
-| [AWSCookbook Security](https://github.com/AWSCookbook/Security) | ⭐50 | 📄 Docs | Security | 
+| [AWSCookbook Security](https://github.com/AWSCookbook/Security) | ⭐51 | 📄 Docs | Security | 
 | [Ansible Tutorial](https://github.com/leucos/ansible-tuto) | ⭐2294 | 📄 Docs | DevOps | 
 | [ArchiMate CheatSheet](https://github.com/SixArm/archimate-examples) | ⭐8 | 📓 Cheat Sheet | Architecture | 
 | [ArchiMate Intro](https://github.com/yasenstar/ArchiMetal_Practice) | ⭐40 | 💡 Tutorial | Architecture | 
@@ -372,12 +372,12 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Architecture Domain Driven Hexagon](https://github.com/Sairyss/domain-driven-hexagon) | ⭐14883 | 📄 Docs | Architecture | 
 | [Architecture Enterprise Patterns](https://github.com/chanakaudaya/solution-architecture-patterns) | ⭐3461 | 📄 Docs | Architecture | 
 | [Architecture Microservices](https://github.com/rodrigorodrigues/microservices-design-patterns) | ⭐186 | 📄 Docs | Architecture | 
-| [Awesome AWS Security](https://github.com/jassics/awesome-aws-security) | ⭐1582 | 👍 Awesome | Security | 
+| [Awesome AWS Security](https://github.com/jassics/awesome-aws-security) | ⭐1598 | 👍 Awesome | Security | 
 | [Awesome Azure Architecture](https://github.com/lukemurraynz/awesome-azure-architecture) | ⭐1720 | 👍 Awesome | Cloud | 
 | [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses) | ⭐70705 | 👍 Awesome | Programming | 
 | [Awesome Cheat Sheets](https://github.com/detailyang/awesome-cheatsheet) | ⭐8540 | 👍 Awesome | Programming | 
 | [Awesome Clean Architecture](https://github.com/dgomezs/awesome-clean-architecture) |  | 👍 Awesome | Architecture | 
-| [Awesome Cloud Security](https://github.com/4ndersonLin/awesome-cloud-security) | ⭐2480 | 👍 Awesome | Security | 
+| [Awesome Cloud Security](https://github.com/4ndersonLin/awesome-cloud-security) | ⭐2487 | 👍 Awesome | Security | 
 | [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns) | ⭐48706 | 👍 Awesome | Architecture | 
 | [Awesome GraphQL](https://github.com/chentsulin/awesome-graphql) | ⭐15110 | 👍 Awesome | Programming | 
 | [Awesome OSINT](https://github.com/jivoi/awesome-osint) | ⭐28512 | 👍 Awesome | Security | 
@@ -386,8 +386,8 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) | ⭐78681 | 👍 Awesome | Programming | 
 | [Awesome Python](https://github.com/vinta/awesome-python) | ⭐316570 | 👍 Awesome | Programming | 
 | [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) | ⭐73563 | 👍 Awesome | Architecture | 
-| [Awesome Security](https://github.com/zbetcheckin/Security_list) | ⭐1879 | 👍 Awesome | Security | 
-| [Awesome k8s Security](https://github.com/magnologan/awesome-k8s-security) | ⭐2007 | 👍 Awesome | Security | 
+| [Awesome Security](https://github.com/zbetcheckin/Security_list) | ⭐1881 | 👍 Awesome | Security | 
+| [Awesome k8s Security](https://github.com/magnologan/awesome-k8s-security) | ⭐2010 | 👍 Awesome | Security | 
 | [Azure Monitoring Baseline](https://github.com/Azure/azure-monitor-baseline-alerts) | ⭐319 | 📄 Docs | Cloud | 
 | [Azure Powershell](https://github.com/andreipintica/Azure-PowerShell-CheatSheet) | ⭐120 | 📓 Cheat Sheet | DevOps | 
 | [Azure Security](https://github.com/MicrosoftDocs/security) | ⭐266 | 📄 Docs | Security | 
@@ -478,7 +478,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Geo Data Science Book](https://github.com/gdsbook/book) | ⭐366 | 📕 Book | ML | 
 | [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) | ⭐58750 | 📓 Cheat Sheet | Programming | 
 | [Globbing Cheat Sheet](https://github.com/begin/globbing) | ⭐157 | 📓 Cheat Sheet | DevOps | 
-| [Google Cloud Guide](https://github.com/mikeroyal/Google-Cloud-Guide) | ⭐205 | 📓 Cheat Sheet | DevOps | 
+| [Google Cloud Guide](https://github.com/mikeroyal/Google-Cloud-Guide) | ⭐206 | 📓 Cheat Sheet | DevOps | 
 | [Google DevOps Governance](https://github.com/google/devops-governance) | ⭐84 | 📄 Docs | DevOps | 
 | [Google Engineering Practices](https://github.com/google/eng-practices) | ⭐23305 | 📓 Cheat Sheet | DevOps | 
 | [How Programming Works](https://github.com/HowProgrammingWorks/Book) | ⭐500 | 📕 Book | Development | 
@@ -503,7 +503,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [LZone Cheat Sheets](https://github.com/lwindolf/lzone-cheat-sheets) | ⭐340 | 📓 Cheat Sheet | DevOps | 
 | [Learn CLI text processing](https://github.com/learnbyexample/Command-line-text-processing) | ⭐10189 | 💡 Tutorial | DevOps | 
 | [Learn Regex](https://github.com/ziishaned/learn-regex) | ⭐46085 | 📓 Cheat Sheet | Programming | 
-| [Learn To Cloud](https://github.com/learntocloud/learn-to-cloud) | ⭐5773 | 💡 Tutorial | DevOps | 
+| [Learn To Cloud](https://github.com/learntocloud/learn-to-cloud) | ⭐5774 | 💡 Tutorial | DevOps | 
 | [Learn UML2](https://github.com/imalitavakoli/learn-uml2) | ⭐124 | 📕 Book | Architecture | 
 | [Learn Vim](https://github.com/iggredible/Learn-Vim) | ⭐15205 | 💡 Tutorial | DevOps | 
 | [Learn sed](https://github.com/dohlee/learn-sed) | ⭐2 | 💡 Tutorial | DevOps | 
@@ -568,7 +568,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Puppet Handbook](https://github.com/abhishekjt/puppet-handbook) |  | 📕 Book | DevOps | 
 | [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible) | ⭐41723 | 📕 Book | DevOps | 
 | [Python Introcution: Byte of Python](https://github.com/swaroopch/byte-of-python) | ⭐2486 | 📕 Book | DevOps | 
-| [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-3rd-edition) | ⭐5046 | 📕 Book | ML | 
+| [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-3rd-edition) | ⭐5061 | 📕 Book | ML | 
 | [Python Tutorial](https://github.com/Akuli/python-tutorial) | ⭐1550 | 📕 Book | DevOps | 
 | [Python pdb Tutorial](https://github.com/spiside/pdb-tutorial) | ⭐921 | 📓 Cheat Sheet | DevOps | 
 | [RabbitMQ Client Tutorials](https://github.com/rabbitmq/rabbitmq-tutorials) | ⭐6890 | 📄 Docs | Programming | 
@@ -589,8 +589,8 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Solution Architecture Links](https://github.com/unlight/solution-architecture) | ⭐697 | 👍 Awesome | Architecture | 
 | [SprintBoot Best Practices](https://github.com/AnghelLeonard/Hibernate-SpringBoot) | ⭐1371 | 📄 Docs | Architecture | 
 | [SysML v2 Documentation](https://github.com/Systems-Modeling/SysML-v2-Release) | ⭐909 | 📄 Docs | Architecture | 
-| [System Design 101](https://github.com/ByteByteGoHq/system-design-101) | ⭐87388 | 💬 Interview | DevOps | 
-| [System Design Primer](https://github.com/donnemartin/system-design-primer) | ⭐365302 | 💬 Interview | DevOps | 
+| [System Design 101](https://github.com/ByteByteGoHq/system-design-101) | ⭐89661 | 💬 Interview | DevOps | 
+| [System Design Primer](https://github.com/donnemartin/system-design-primer) | ⭐371150 | 💬 Interview | DevOps | 
 | [Tekton 101](https://github.com/dewan-ahmed/Tekton101) | ⭐9 | 💡 Tutorial | DevOps | 
 | [Terraform Zero to Hero](https://github.com/iam-veeramalla/terraform-zero-to-hero) | ⭐4255 | 📄 Docs | DevOps | 
 | [The Bread Code](https://github.com/hendricius/the-bread-code) | ⭐4142 | 📕 Book | DevOps | 
@@ -602,7 +602,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Video Tutorials](https://github.com/lwindolf/lzone-cheat-sheets) | ⭐340 | 💡 Tutorial | DevOps | 
 | [WTFJS](https://github.com/denysdovhan/wtfjs) | ⭐37680 | 📕 Book | Programming | 
 | [What is Enterprise Architecture](https://github.com/justinamiller/EnterpriseArchitecture) | ⭐257 | 📄 Docs | Architecture | 
-| [Xapax Security](https://github.com/xapax/security) | ⭐1043 | 📓 Cheat Sheet | Security | 
+| [Xapax Security](https://github.com/xapax/security) | ⭐1045 | 📓 Cheat Sheet | Security | 
 | [Zabbix Book](https://github.com/Trikke76/Zabbix-Book) | ⭐38 | 📕 Book | DevOps | 
 | [arc42 Documentation](https://github.com/arc42/docs.arc42.org-site) | ⭐68 | 📄 Docs | Architecture | 
 | [awesome Architecture](https://github.com/mehdihadeli/awesome-software-architecture) | ⭐11611 | 👍 Awesome | Architecture | 
@@ -627,12 +627,12 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [devinterview.io kubernetes](https://github.com/Devinterview-io/kubernetes-interview-questions) | ⭐66 | 💬 Interview | DevOps | 
 | [eg Cheat Sheets](https://github.com/srsudar/eg) | ⭐2040 | 📓 Cheat Sheet | DevOps | 
 | [golang Cheat Sheet](https://github.com/a8m/golang-cheat-sheet) | ⭐8821 | 📓 Cheat Sheet | Programming | 
-| [k8s CKAD Tutorial](https://github.com/madhank93/learn-k8s-ckad) | ⭐28 | 💡 Tutorial | DevOps | 
-| [k8s Istio Tutorial](https://github.com/kelseyhightower/istio-ingress-tutorial) | ⭐321 | 💡 Tutorial | DevOps | 
-| [k8s NetworkPolicy Tutorial](https://github.com/networkpolicy/tutorial) | ⭐154 | 💡 Tutorial | DevOps | 
-| [k8s Nomand Tutorial](https://github.com/kelseyhightower/nomad-on-kubernetes) | ⭐356 | 💡 Tutorial | DevOps | 
+| [k8s CKAD Tutorial](https://github.com/madhank93/learn-k8s-ckad) | ⭐29 | 💡 Tutorial | DevOps | 
+| [k8s Istio Tutorial](https://github.com/kelseyhightower/istio-ingress-tutorial) | ⭐320 | 💡 Tutorial | DevOps | 
+| [k8s NetworkPolicy Tutorial](https://github.com/networkpolicy/tutorial) | ⭐156 | 💡 Tutorial | DevOps | 
+| [k8s Nomand Tutorial](https://github.com/kelseyhightower/nomad-on-kubernetes) | ⭐355 | 💡 Tutorial | DevOps | 
 | [k8s Tekton Tutorial](https://github.com/harbur/tekton-tutorial) | ⭐9 | 💡 Tutorial | DevOps | 
-| [k8s the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | ⭐49524 | 💡 Tutorial | DevOps | 
+| [k8s the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | ⭐49813 | 💡 Tutorial | DevOps | 
 | [nginx Admin Handbook](https://github.com/trimstray/nginx-admins-handbook) | ⭐14305 | 📄 Docs | DevOps | 
 | [nocomplexity Architecture Playbook](https://github.com/nocomplexity/ArchitecturePlaybook) | ⭐737 | 📄 Docs | Architecture | 
 | [reactnative.guide](https://github.com/react-made-native-easy/book) |  | 📕 Book | Development | 
