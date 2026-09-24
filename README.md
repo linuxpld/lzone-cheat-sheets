@@ -462,7 +462,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Documentation rundeck](https://github.com/rundeck/docs) | ⭐89 | 📄 Docs | DevOps | 
 | [Elastic Data Lake Architecture](https://github.com/gose/elastic-data-lake) | ⭐25 | 📄 Docs | Architecture | 
 | [ElasticSearch Architecture](https://github.com/gose/elastic-architectures) | ⭐5 | 📄 Docs | Architecture | 
-| [ElasticSearch Examples](https://github.com/elastic/examples) | ⭐2649 | 📄 Docs | DevOps | 
+| [ElasticSearch Examples](https://github.com/elastic/examples) | ⭐2646 | 📄 Docs | DevOps | 
 | [Embedded New Testament](https://github.com/theEmbeddedGeorge/theEmbeddedNewTestament.github.io) | ⭐967 | 📄 Docs | Development | 
 | [Everything curl](https://github.com/curl/everything-curl) | ⭐2262 | 📕 Book | DevOps | 
 | [Excel Cheat Sheet](https://github.com/emanuelefavero/excel) | ⭐4 | 📓 Cheat Sheet | DevOps | 
@@ -499,7 +499,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Javascript ES6 Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) | ⭐13306 | 📓 Cheat Sheet | Programming | 
 | [Javascript Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide) | ⭐23822 | 📄 Docs | Programming | 
 | [Javascript NPM with ES Modules](https://github.com/transitive-bullshit/npm-es-modules) | ⭐75 | 📄 Docs | Programming | 
-| [Kafka Architecture](https://github.com/anhthii/kafka-notes) | ⭐126 | 📄 Docs | Architecture | 
+| [Kafka Architecture](https://github.com/anhthii/kafka-notes) | ⭐128 | 📄 Docs | Architecture | 
 | [LZone Cheat Sheets](https://github.com/lwindolf/lzone-cheat-sheets) | ⭐340 | 📓 Cheat Sheet | DevOps | 
 | [Learn CLI text processing](https://github.com/learnbyexample/Command-line-text-processing) | ⭐10189 | 💡 Tutorial | DevOps | 
 | [Learn Regex](https://github.com/ziishaned/learn-regex) | ⭐46085 | 📓 Cheat Sheet | Programming | 

@@ -975,9 +975,9 @@
     "github": "anhthii/kafka-notes",
     "category": "Architecture",
     "type": "Documentation",
-    "stars": 126,
-    "forks": 65,
-    "last_updated": "2026-08-24"
+    "stars": 128,
+    "forks": 66,
+    "last_updated": "2026-09-24"
   },
   "Databases Introduction": {
     "github": "anhthii/database-notes",
@@ -986,16 +986,16 @@
     "type": "Book",
     "stars": 62,
     "forks": 22,
-    "last_updated": "2026-08-24"
+    "last_updated": "2026-09-24"
   },
   "ElasticSearch Examples": {
     "github": "elastic/examples",
     "filePattern": "^(.+)\\.md$",
     "category": "DevOps",
     "type": "Documentation",
-    "stars": 2649,
-    "forks": 1210,
-    "last_updated": "2026-08-24"
+    "stars": 2646,
+    "forks": 1206,
+    "last_updated": "2026-09-24"
   },
   "ElasticSearch Architecture": {
     "github": "gose/elastic-architectures",
