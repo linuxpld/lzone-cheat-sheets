@@ -430,17 +430,17 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Documentation FluentBit](https://github.com/fluent/fluent-bit-docs) | ⭐150 | 📄 Docs | DevOps | 
 | [Documentation Flux](https://github.com/fluxcd/website) | ⭐65 | 📄 Docs | DevOps | 
 | [Documentation FreeBSD](https://github.com/freebsd/freebsd-doc) | ⭐386 | 📄 Docs | DevOps | 
-| [Documentation GRR](https://github.com/google/grr-doc) | ⭐312 | 📄 Docs | Security | 
-| [Documentation Google GVisor](https://github.com/google/gvisor) | ⭐19206 | 📄 Docs | Security | 
-| [Documentation Google OSFIR](https://github.com/google/osdfir-infrastructure) | ⭐213 | 📄 Docs | Security | 
+| [Documentation GRR](https://github.com/google/grr-doc) | ⭐313 | 📄 Docs | Security | 
+| [Documentation Google GVisor](https://github.com/google/gvisor) | ⭐19474 | 📄 Docs | Security | 
+| [Documentation Google OSFIR](https://github.com/google/osdfir-infrastructure) | ⭐214 | 📄 Docs | Security | 
 | [Documentation Grafana Loki](https://github.com/grafana/loki) | ⭐28946 | 📄 Docs | DevOps | 
 | [Documentation Grafana LokiStack Operator](https://github.com/grafana/loki) | ⭐28952 | 📄 Docs | DevOps | 
 | [Documentation Helm](https://github.com/helm/helm-www) | ⭐229 | 📄 Docs | DevOps | 
 | [Documentation Kata Containers](https://github.com/kata-containers/kata-containers) | ⭐8846 | 📄 Docs | Security | 
 | [Documentation Linode](https://github.com/linode/docs) | ⭐1395 | 📄 Docs | SaaS | 
-| [Documentation OSV Scanner](https://github.com/google/osv-scanner) | ⭐10948 | 📄 Docs | Security | 
-| [Documentation OpenTelemetry](https://github.com/open-telemetry/opentelemetry.io) | ⭐958 | 📄 Docs | DevOps | 
-| [Documentation Openshift](https://github.com/openshift/openshift-docs) | ⭐880 | 📄 Docs | DevOps | 
+| [Documentation OSV Scanner](https://github.com/google/osv-scanner) | ⭐11131 | 📄 Docs | Security | 
+| [Documentation OpenTelemetry](https://github.com/open-telemetry/opentelemetry.io) | ⭐977 | 📄 Docs | DevOps | 
+| [Documentation Openshift](https://github.com/openshift/openshift-docs) | ⭐882 | 📄 Docs | DevOps | 
 | [Documentation Powershell](https://github.com/MicrosoftDocs/PowerShell-Docs) | ⭐2551 | 📄 Docs | DevOps | 
 | [Documentation Prometheus](https://github.com/prometheus/docs) | ⭐718 | 📄 Docs | DevOps | 
 | [Documentation Prometheus Alertmanager](https://github.com/prometheus/alertmanager) | ⭐8628 | 📄 Docs | DevOps | 
@@ -450,15 +450,15 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Documentation RedisLabs](https://github.com/RedisLabs/redislabs-docs) | ⭐67 | 📄 Docs | DevOps | 
 | [Documentation Telegraf](https://github.com/influxdata/telegraf) | ⭐17833 | 📄 Docs | DevOps | 
 | [Documentation TravisCI](https://github.com/travis-ci/docs-travis-ci-com) | ⭐645 | 📄 Docs | DevOps | 
-| [Documentation cfengine](https://github.com/cfengine/documentation) | ⭐37 | 📄 Docs | DevOps | 
+| [Documentation cfengine](https://github.com/cfengine/documentation) | ⭐38 | 📄 Docs | DevOps | 
 | [Documentation docker-bench-security](https://github.com/docker/docker-bench-security) | ⭐9699 | 📄 Docs | Security | 
 | [Documentation juju](https://github.com/juju/juju) | ⭐2673 | 📄 Docs | DevOps | 
-| [Documentation knative](https://github.com/knative/docs) | ⭐5083 | 📄 Docs | DevOps | 
+| [Documentation knative](https://github.com/knative/docs) | ⭐5094 | 📄 Docs | DevOps | 
 | [Documentation kubebench](https://github.com/aquasecurity/kube-bench) | ⭐8206 | 📄 Docs | Security | 
 | [Documentation kubernetes](https://github.com/kubernetes/website) | ⭐5395 | 📄 Docs | DevOps | 
 | [Documentation kubeseal](https://github.com/bitnami-labs/sealed-secrets) | ⭐9130 | 📄 Docs | DevOps | 
 | [Documentation pfsense (legacy)](https://github.com/pfsense/docs) | ⭐125 | 📄 Docs | DevOps | 
-| [Documentation pprof](https://github.com/google/pprof) | ⭐9278 | 📄 Docs | Programming | 
+| [Documentation pprof](https://github.com/google/pprof) | ⭐9287 | 📄 Docs | Programming | 
 | [Documentation rundeck](https://github.com/rundeck/docs) | ⭐89 | 📄 Docs | DevOps | 
 | [Elastic Data Lake Architecture](https://github.com/gose/elastic-data-lake) | ⭐25 | 📄 Docs | Architecture | 
 | [ElasticSearch Architecture](https://github.com/gose/elastic-architectures) | ⭐5 | 📄 Docs | Architecture | 
@@ -480,7 +480,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Globbing Cheat Sheet](https://github.com/begin/globbing) | ⭐157 | 📓 Cheat Sheet | DevOps | 
 | [Google Cloud Guide](https://github.com/mikeroyal/Google-Cloud-Guide) | ⭐206 | 📓 Cheat Sheet | DevOps | 
 | [Google DevOps Governance](https://github.com/google/devops-governance) | ⭐84 | 📄 Docs | DevOps | 
-| [Google Engineering Practices](https://github.com/google/eng-practices) | ⭐23305 | 📓 Cheat Sheet | DevOps | 
+| [Google Engineering Practices](https://github.com/google/eng-practices) | ⭐23299 | 📓 Cheat Sheet | DevOps | 
 | [How Programming Works](https://github.com/HowProgrammingWorks/Book) | ⭐498 | 📕 Book | Development | 
 | [How to secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | ⭐31176 | 📄 Docs | Security | 
 | [IMDB Data in the Terminal](https://github.com/vvijayan1/imdb_data_on_terminal) | ⭐7 | 💡 Tutorial | ML | 
@@ -494,7 +494,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Interview Questions: System Design](https://github.com/shashank88/system_design) | ⭐9263 | 💬 Interview | Architecture | 
 | [Interview Questions: System Design and Architecture](https://github.com/puncsky/system-design-and-architecture) | ⭐3581 | 💬 Interview | Architecture | 
 | [JS Promise Cookbook](https://github.com/mattdesl/promise-cookbook) | ⭐1610 | 📕 Book | Development | 
-| [Jaeger Distributed Tracing](https://github.com/jaegertracing/documentation) | ⭐83 | 📄 Docs | DevOps | 
+| [Jaeger Distributed Tracing](https://github.com/jaegertracing/documentation) | ⭐84 | 📄 Docs | DevOps | 
 | [Java 8 Tutorial](https://github.com/winterbe/java8-tutorial) | ⭐16720 | 📄 Docs | Programming | 
 | [Javascript ES6 Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) | ⭐13306 | 📓 Cheat Sheet | Programming | 
 | [Javascript Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide) | ⭐23822 | 📄 Docs | Programming | 
@@ -518,8 +518,8 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Learning Path System Design](https://github.com/TechPrimers/learning-path-system-design) | ⭐83 | 📚 Learning Path | Architecture | 
 | [Learning Path Thinkerhub](https://github.com/tinkerhub/TinkerHub-Learning-Paths) | ⭐67 | 📚 Learning Path | Development | 
 | [Learning Path by Role](https://github.com/belatrix/learningPaths) | ⭐29 | 📚 Learning Path | Development | 
-| [Learning Path k8s](https://github.com/techiescamp/kubernetes-learning-path) | ⭐7631 | 📚 Learning Path | DevOps | 
-| [Learning Path k8s (Microsoft)](https://github.com/microsoft/kubernetes-learning-path) | ⭐399 | 📚 Learning Path | DevOps | 
+| [Learning Path k8s](https://github.com/techiescamp/kubernetes-learning-path) | ⭐7640 | 📚 Learning Path | DevOps | 
+| [Learning Path k8s (Microsoft)](https://github.com/microsoft/kubernetes-learning-path) | ⭐398 | 📚 Learning Path | DevOps | 
 | [Learning freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | ⭐456364 | 💡 Tutorial | Programming | 
 | [Linux Kernel Docs](https://github.com/bryancandi/LinuxKernelDocs) | ⭐1 | 📄 Docs | Development | 
 | [Linux XDP Tutorial](https://github.com/xdp-project/xdp-tutorial) | ⭐2979 | 📄 Docs | Programming | 
