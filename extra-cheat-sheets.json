@@ -1811,25 +1811,25 @@
     "github": "shovanch/fullstack-web-developer-path",
     "type": "Learning Path",
     "category": "Development",
-    "stars": 3473,
-    "forks": 614,
-    "last_updated": "2026-09-01"
+    "stars": 3474,
+    "forks": 612,
+    "last_updated": "2026-10-03"
   },
   "Learning Path Functional Programming": {
     "github": "imteekay/functional-programming-learning-path",
     "type": "Learning Path",
     "category": "Development",
-    "stars": 1042,
+    "stars": 1043,
     "forks": 84,
-    "last_updated": "2026-09-01"
+    "last_updated": "2026-10-03"
   },
   "Learning Path Springboot Microservices": {
     "github": "TechPrimers/learning-path-spring-boot-microservices",
     "type": "Learning Path",
     "category": "Development",
     "stars": 299,
-    "forks": 158,
-    "last_updated": "2026-09-01"
+    "forks": 157,
+    "last_updated": "2026-10-03"
   },
   "Learning Path Thinkerhub": {
     "github": "tinkerhub/TinkerHub-Learning-Paths",
@@ -1838,7 +1838,7 @@
     "category": "Development",
     "stars": 67,
     "forks": 71,
-    "last_updated": "2026-09-01"
+    "last_updated": "2026-10-03"
   },
   "Learning Path by Role": {
     "github": "belatrix/learningPaths",
@@ -1846,7 +1846,7 @@
     "category": "Development",
     "stars": 29,
     "forks": 28,
-    "last_updated": "2026-09-01"
+    "last_updated": "2026-10-03"
   },
   "Learning Path System Design": {
     "github": "TechPrimers/learning-path-system-design",
@@ -1854,15 +1854,15 @@
     "category": "Architecture",
     "stars": 83,
     "forks": 35,
-    "last_updated": "2026-09-01"
+    "last_updated": "2026-10-03"
   },
   "Learning Path Senior Developer": {
     "github": "joebew42/study-path",
     "type": "Learning Path",
     "category": "Development",
-    "stars": 3002,
-    "forks": 350,
-    "last_updated": "2026-09-01"
+    "stars": 3004,
+    "forks": 348,
+    "last_updated": "2026-10-03"
   },
   "Learning Path Data Science": {
     "github": "myarist/Data-Science-Learning-Path",
@@ -1873,18 +1873,18 @@
     "github": "AMAI-GmbH/AI-Expert-Roadmap",
     "type": "Learning Path",
     "category": "Development",
-    "stars": 31221,
-    "forks": 2582,
-    "last_updated": "2026-09-02"
+    "stars": 31281,
+    "forks": 2587,
+    "last_updated": "2026-10-03"
   },
   "Documentation TravisCI": {
     "github": "travis-ci/docs-travis-ci-com",
     "filePattern": "^user/(.+).md$",
     "type": "Documentation",
     "category": "DevOps",
-    "stars": 645,
-    "forks": 3427,
-    "last_updated": "2026-09-02"
+    "stars": 648,
+    "forks": 3432,
+    "last_updated": "2026-10-03"
   },
   "Documentation CloudFoundry Bosh": {
     "github": "cloudfoundry/docs-bosh",
@@ -1893,16 +1893,16 @@
     "category": "DevOps",
     "stars": 37,
     "forks": 271,
-    "last_updated": "2026-09-02"
+    "last_updated": "2026-10-03"
   },
   "Documentation FreeBSD": {
     "github": "freebsd/freebsd-doc",
     "filePattern": "^documentation/content/en/(.+).adoc$",
     "type": "Documentation",
     "category": "DevOps",
-    "stars": 386,
-    "forks": 429,
-    "last_updated": "2026-09-02"
+    "stars": 387,
+    "forks": 436,
+    "last_updated": "2026-10-03"
   },
   "Documentation pfsense (legacy)": {
     "github": "pfsense/docs",
@@ -1911,43 +1911,43 @@
     "category": "DevOps",
     "stars": 125,
     "forks": 101,
-    "last_updated": "2026-09-02"
+    "last_updated": "2026-10-03"
   },
   "Documentation rundeck": {
     "github": "rundeck/docs",
     "filePattern": "^docs/(.+).md$",
     "type": "Documentation",
     "category": "DevOps",
-    "stars": 89,
-    "forks": 174,
-    "last_updated": "2026-09-02"
+    "stars": 91,
+    "forks": 177,
+    "last_updated": "2026-10-03"
   },
   "Runbooks PagerDuty Incident Response": {
     "github": "PagerDuty/incident-response-docs",
     "filePattern": "^docs/(.+).md$",
     "type": "Runbook",
     "category": "DevOps",
-    "stars": 1050,
-    "forks": 220,
-    "last_updated": "2026-09-02"
+    "stars": 1053,
+    "forks": 219,
+    "last_updated": "2026-10-03"
   },
   "Documentation RedisLabs": {
     "github": "RedisLabs/redislabs-docs",
     "filePattern": "^content/(.+).md$",
     "type": "Documentation",
     "category": "DevOps",
-    "stars": 67,
-    "forks": 458,
-    "last_updated": "2026-09-02"
+    "stars": 66,
+    "forks": 457,
+    "last_updated": "2026-10-03"
   },
   "Documentation Chef": {
     "github": "chef/chef-web-docs",
     "filePattern": "^content/(.+).md$",
     "type": "Documentation",
     "category": "DevOps",
-    "stars": 142,
-    "forks": 437,
-    "last_updated": "2026-09-02"
+    "stars": 143,
+    "forks": 438,
+    "last_updated": "2026-10-03"
   },
   "Documentation FluentBit": {
     "github": "fluent/fluent-bit-docs",
