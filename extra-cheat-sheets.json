@@ -1954,8 +1954,8 @@
     "type": "Documentation",
     "category": "DevOps",
     "stars": 150,
-    "forks": 564,
-    "last_updated": "2026-09-02"
+    "forks": 567,
+    "last_updated": "2026-10-04"
   },
   "Documentation Apache CloudStack": {
     "github": "apache/cloudstack-docs",
@@ -1964,7 +1964,7 @@
     "category": "DevOps",
     "stars": 15,
     "forks": 55,
-    "last_updated": "2026-09-02"
+    "last_updated": "2026-10-04"
   },
   "Documentation Flux": {
     "github": "fluxcd/website",
@@ -1973,15 +1973,15 @@
     "category": "DevOps",
     "stars": 65,
     "forks": 403,
-    "last_updated": "2026-09-02"
+    "last_updated": "2026-10-04"
   },
   "Coding Interview University": {
     "github": "jwasham/coding-interview-university",
     "type": "Documentation",
     "category": "Development",
-    "stars": 360250,
-    "forks": 84790,
-    "last_updated": "2026-09-02"
+    "stars": 362292,
+    "forks": 84893,
+    "last_updated": "2026-10-04"
   },
   "rsync Tutorial": {
     "github": "johnjung/rsync_tutorial",
@@ -1992,34 +1992,34 @@
     "github": "microsoft/typespec",
     "type": "Documentation",
     "category": "Architecture",
-    "stars": 5842,
-    "forks": 388,
-    "last_updated": "2026-09-02"
+    "stars": 5878,
+    "forks": 401,
+    "last_updated": "2026-10-04"
   },
   "Generating Flamegraphs": {
     "github": "brendangregg/FlameGraph",
     "type": "Documentation",
     "category": "DevOps",
-    "stars": 19724,
-    "forks": 2111,
-    "last_updated": "2026-09-02"
+    "stars": 19784,
+    "forks": 2110,
+    "last_updated": "2026-10-04"
   },
   "SprintBoot Best Practices": {
     "github": "AnghelLeonard/Hibernate-SpringBoot",
     "type": "Documentation",
     "category": "Architecture",
     "stars": 1371,
-    "forks": 537,
-    "last_updated": "2026-09-03"
+    "forks": 535,
+    "last_updated": "2026-10-04"
   },
   "AWS EKS Best Practices": {
     "github": "aws/aws-eks-best-practices",
     "filePattern": "content/(.+).md$",
     "type": "Documentation",
     "category": "DevOps",
-    "stars": 2157,
-    "forks": 567,
-    "last_updated": "2026-09-03"
+    "stars": 2163,
+    "forks": 570,
+    "last_updated": "2026-10-04"
   },
   "AWS ELB Best Practices": {
     "github": "aws/aws-elb-best-practices",
@@ -2028,7 +2028,7 @@
     "category": "DevOps",
     "stars": 34,
     "forks": 6,
-    "last_updated": "2026-09-03"
+    "last_updated": "2026-10-04"
   },
   "Documentation kubeseal": {
     "github": "bitnami-labs/sealed-secrets",
@@ -2042,33 +2042,33 @@
     "github": "imthenachoman/How-To-Secure-A-Linux-Server",
     "type": "Documentation",
     "category": "Security",
-    "stars": 31176,
-    "forks": 2102,
-    "last_updated": "2026-09-03"
+    "stars": 31754,
+    "forks": 2144,
+    "last_updated": "2026-10-04"
   },
   "The Bread Code": {
     "github": "hendricius/the-bread-code",
     "type": "Book",
     "category": "DevOps",
-    "stars": 4142,
-    "forks": 181,
-    "last_updated": "2026-09-03"
+    "stars": 4140,
+    "forks": 180,
+    "last_updated": "2026-10-04"
   },
   "Terraform Zero to Hero": {
     "github": "iam-veeramalla/terraform-zero-to-hero",
     "type": "Documentation",
     "category": "DevOps",
-    "stars": 4255,
-    "forks": 19487,
-    "last_updated": "2026-09-03"
+    "stars": 4302,
+    "forks": 19681,
+    "last_updated": "2026-10-04"
   },
   "AWK anti-textbook": {
     "github": "thewhitetulip/awk-anti-textbook",
     "type": "Tutorial",
     "category": "DevOps",
-    "stars": 744,
+    "stars": 740,
     "forks": 37,
-    "last_updated": "2026-09-03"
+    "last_updated": "2026-10-04"
   },
   "Learn sed": {
     "github": "dohlee/learn-sed",
@@ -2076,7 +2076,7 @@
     "category": "DevOps",
     "stars": 2,
     "forks": 1,
-    "last_updated": "2026-09-03"
+    "last_updated": "2026-10-04"
   },
   "Learn CLI text processing": {
     "github": "learnbyexample/Command-line-text-processing",
