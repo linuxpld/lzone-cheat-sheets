@@ -2289,9 +2289,9 @@
     "github": "Devinterview-io/docker-interview-questions",
     "type": "Interview",
     "category": "DevOps",
-    "stars": 102,
-    "forks": 47,
-    "last_updated": "2026-09-06"
+    "stars": 108,
+    "forks": 48,
+    "last_updated": "2026-10-07"
   },
   "devinterview.io DDD": {
     "github": "Devinterview-io/domain-driven-design-interview-questions",
@@ -2299,15 +2299,15 @@
     "category": "Architecture",
     "stars": 22,
     "forks": 6,
-    "last_updated": "2026-09-06"
+    "last_updated": "2026-10-07"
   },
   "devinterview.io kubernetes": {
     "github": "Devinterview-io/kubernetes-interview-questions",
     "type": "Interview",
     "category": "DevOps",
     "stars": 66,
-    "forks": 45,
-    "last_updated": "2026-09-06"
+    "forks": 47,
+    "last_updated": "2026-10-07"
   },
   "devinterview.io CAP theorem": {
     "github": "Devinterview-io/cap-theorem-interview-questions",
@@ -2315,7 +2315,7 @@
     "category": "Architecture",
     "stars": 24,
     "forks": 9,
-    "last_updated": "2026-09-06"
+    "last_updated": "2026-10-07"
   },
   "devinterview.io availability": {
     "github": "Devinterview-io/availability-and-reliability-interview-questions",
@@ -2323,31 +2323,31 @@
     "category": "DevOps",
     "stars": 15,
     "forks": 5,
-    "last_updated": "2026-09-06"
+    "last_updated": "2026-10-07"
   },
   "devinterview.io AWS": {
     "github": "Devinterview-io/aws-interview-questions",
     "type": "Interview",
     "category": "Cloud",
-    "stars": 343,
-    "forks": 254,
-    "last_updated": "2026-09-07"
+    "stars": 354,
+    "forks": 265,
+    "last_updated": "2026-10-07"
   },
   "devinterview.io Azure": {
     "github": "Devinterview-io/azure-interview-questions",
     "type": "Interview",
     "category": "Cloud",
-    "stars": 35,
-    "forks": 36,
-    "last_updated": "2026-09-07"
+    "stars": 37,
+    "forks": 37,
+    "last_updated": "2026-10-07"
   },
   "Everything curl": {
     "github": "curl/everything-curl",
     "type": "Book",
     "category": "DevOps",
-    "stars": 2262,
-    "forks": 339,
-    "last_updated": "2026-09-07"
+    "stars": 2267,
+    "forks": 338,
+    "last_updated": "2026-10-07"
   },
   "Linux Kernel Docs": {
     "github": "bryancandi/LinuxKernelDocs",
@@ -2356,31 +2356,31 @@
     "filePattern": "^assetpack/src/main/assets/(.+\\.html)$",
     "stars": 1,
     "forks": 0,
-    "last_updated": "2026-09-07"
+    "last_updated": "2026-10-07"
   },
   "Documentation Ansible": {
     "github": "ansible/ansible-documentation",
     "type": "Documentation",
     "category": "DevOps",
     "filePattern": "docs/docsite/rst/(.+\\.rst)$",
-    "stars": 180,
-    "forks": 848,
-    "last_updated": "2026-09-07"
+    "stars": 182,
+    "forks": 858,
+    "last_updated": "2026-10-07"
   },
   "Embedded New Testament": {
     "github": "theEmbeddedGeorge/theEmbeddedNewTestament.github.io",
     "type": "Documentation",
     "category": "Development",
-    "stars": 967,
-    "forks": 198,
-    "last_updated": "2026-09-07"
+    "stars": 1007,
+    "forks": 205,
+    "last_updated": "2026-10-07"
   },
   "x86 bare metal examples": {
     "github": "cirosantilli/x86-bare-metal-examples",
     "type": "Tutorial",
     "category": "Development",
-    "stars": 5352,
-    "forks": 430,
-    "last_updated": "2026-09-07"
+    "stars": 5385,
+    "forks": 431,
+    "last_updated": "2026-10-07"
   }
 }
