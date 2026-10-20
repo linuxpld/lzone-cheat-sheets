@@ -500,7 +500,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Javascript Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide) | ⭐23822 | 📄 Docs | Programming | 
 | [Javascript NPM with ES Modules](https://github.com/transitive-bullshit/npm-es-modules) | ⭐75 | 📄 Docs | Programming | 
 | [Kafka Architecture](https://github.com/anhthii/kafka-notes) | ⭐128 | 📄 Docs | Architecture | 
-| [LZone Cheat Sheets](https://github.com/lwindolf/lzone-cheat-sheets) | ⭐340 | 📓 Cheat Sheet | DevOps | 
+| [LZone Cheat Sheets](https://github.com/lwindolf/lzone-cheat-sheets) | ⭐343 | 📓 Cheat Sheet | DevOps | 
 | [Learn CLI text processing](https://github.com/learnbyexample/Command-line-text-processing) | ⭐10181 | 💡 Tutorial | DevOps | 
 | [Learn Regex](https://github.com/ziishaned/learn-regex) | ⭐46092 | 📓 Cheat Sheet | Programming | 
 | [Learn To Cloud](https://github.com/learntocloud/learn-to-cloud) | ⭐5774 | 💡 Tutorial | DevOps | 
@@ -599,7 +599,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Tutorial RabbitMQ](https://github.com/Frodo-Web/frodo-tips) | ⭐2 | 💡 Tutorial | DevOps | 
 | [TypeSpec API Generator](https://github.com/microsoft/typespec) | ⭐5878 | 📄 Docs | Architecture | 
 | [Typescript Handbook](https://github.com/microsoft/TypeScript-Website) | ⭐2555 | 📕 Book | Development | 
-| [Video Tutorials](https://github.com/lwindolf/lzone-cheat-sheets) | ⭐340 | 💡 Tutorial | DevOps | 
+| [Video Tutorials](https://github.com/lwindolf/lzone-cheat-sheets) | ⭐343 | 💡 Tutorial | DevOps | 
 | [WTFJS](https://github.com/denysdovhan/wtfjs) | ⭐37690 | 📕 Book | Programming | 
 | [What is Enterprise Architecture](https://github.com/justinamiller/EnterpriseArchitecture) | ⭐260 | 📄 Docs | Architecture | 
 | [Xapax Security](https://github.com/xapax/security) | ⭐1045 | 📓 Cheat Sheet | Security | 
