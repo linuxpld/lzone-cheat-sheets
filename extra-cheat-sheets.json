@@ -612,17 +612,17 @@
     "github": "andreipintica/Azure-PowerShell-CheatSheet",
     "type": "Cheat Sheet",
     "category": "DevOps",
-    "stars": 121,
+    "stars": 122,
     "forks": 153,
-    "last_updated": "2026-09-22"
+    "last_updated": "2026-10-23"
   },
   "Awesome Azure Architecture": {
     "github": "lukemurraynz/awesome-azure-architecture",
     "type": "Awesome",
     "category": "Cloud",
-    "stars": 1726,
-    "forks": 355,
-    "last_updated": "2026-09-22"
+    "stars": 1733,
+    "forks": 356,
+    "last_updated": "2026-10-23"
   },
   "Azure Monitoring Baseline": {
     "github": "Azure/azure-monitor-baseline-alerts",
@@ -630,8 +630,8 @@
     "type": "Documentation",
     "category": "Cloud",
     "stars": 323,
-    "forks": 349,
-    "last_updated": "2026-09-22"
+    "forks": 346,
+    "last_updated": "2026-10-23"
   },
   "Azure Security": {
     "github": "MicrosoftDocs/security",
@@ -647,60 +647,60 @@
     "filePattern": "^docs/(.+)\\.md$",
     "type": "Documentation",
     "category": "Architecture",
-    "stars": 2021,
-    "forks": 1842,
-    "last_updated": "2026-09-22"
+    "stars": 2027,
+    "forks": 1849,
+    "last_updated": "2026-10-23"
   },
   "Documentation Powershell": {
     "github": "MicrosoftDocs/PowerShell-Docs",
     "filePattern": "^reference/docs-conceptual/(.+)\\.md$",
     "type": "Documentation",
     "category": "DevOps",
-    "stars": 2551,
-    "forks": 1719,
-    "last_updated": "2026-09-22"
+    "stars": 2569,
+    "forks": 1726,
+    "last_updated": "2026-10-23"
   },
   "MS Virtualization": {
     "github": "MicrosoftDocs/Virtualization-Documentation",
     "type": "Documentation",
     "category": "DevOps",
-    "stars": 1925,
-    "forks": 1504,
-    "last_updated": "2026-09-22"
+    "stars": 1923,
+    "forks": 1505,
+    "last_updated": "2026-10-23"
   },
   "Architecture Books": {
     "github": "mhadidg/software-architecture-books",
     "type": "Awesome",
     "category": "Architecture",
-    "stars": 11353,
-    "forks": 891,
-    "last_updated": "2026-09-22"
+    "stars": 11399,
+    "forks": 893,
+    "last_updated": "2026-10-23"
   },
   "Architecture Enterprise Patterns": {
     "github": "chanakaudaya/solution-architecture-patterns",
     "type": "Documentation",
     "category": "Architecture",
-    "stars": 3470,
-    "forks": 676,
-    "last_updated": "2026-09-22"
+    "stars": 3475,
+    "forks": 675,
+    "last_updated": "2026-10-23"
   },
   "Runbooks Prometheus Operator": {
     "github": "prometheus-operator/runbooks",
     "filePattern": "^content/runbooks/(.+)\\.md$",
     "type": "Documentation",
     "category": "DevOps",
-    "stars": 122,
-    "forks": 208,
-    "last_updated": "2026-09-22"
+    "stars": 123,
+    "forks": 210,
+    "last_updated": "2026-10-23"
   },
   "Runbooks Openshift": {
     "github": "openshift/runbooks",
     "filePattern": "^alerts/(.+)\\.md$",
     "type": "Runbook",
     "category": "DevOps",
-    "stars": 105,
-    "forks": 156,
-    "last_updated": "2026-09-22"
+    "stars": 107,
+    "forks": 157,
+    "last_updated": "2026-10-23"
   },
   "Runbooks Container Solutions": {
     "github": "ContainerSolutions/runbooks",
@@ -708,8 +708,8 @@
     "type": "Runbook",
     "category": "DevOps",
     "stars": 128,
-    "forks": 49,
-    "last_updated": "2026-09-22"
+    "forks": 48,
+    "last_updated": "2026-10-23"
   },
   "Runbooks Example": {
     "github": "sstafford/ops_runbook",
@@ -717,7 +717,7 @@
     "category": "DevOps",
     "stars": 32,
     "forks": 43,
-    "last_updated": "2026-09-22"
+    "last_updated": "2026-10-23"
   },
   "Runbooks Concept": {
     "github": "iworkforthem/runbook",
@@ -733,34 +733,34 @@
     "category": "DevOps",
     "stars": 31,
     "forks": 14,
-    "last_updated": "2026-09-22"
+    "last_updated": "2026-10-23"
   },
   "AWS Serverless Workshop": {
     "github": "aws-samples/aws-serverless-workshops",
     "filePattern": "^(.+)\\.md$",
     "type": "Documentation",
     "category": "Cloud",
-    "stars": 4255,
-    "forks": 2596,
-    "last_updated": "2026-09-22"
+    "stars": 4254,
+    "forks": 2594,
+    "last_updated": "2026-10-23"
   },
   "AWS EKS Workshop": {
     "github": "aws-samples/eks-workshop-v2",
     "filePattern": "^website/docs/(.+)\\.md$",
     "type": "Documentation",
     "category": "Cloud",
-    "stars": 627,
-    "forks": 615,
-    "last_updated": "2026-09-22"
+    "stars": 630,
+    "forks": 619,
+    "last_updated": "2026-10-23"
   },
   "Runbooks AWS Incidents": {
     "github": "aws-samples/aws-incident-response-playbooks",
     "filePattern": "^playbooks/(.+)\\.md$",
     "type": "Runbook",
     "category": "Cloud",
-    "stars": 1110,
-    "forks": 233,
-    "last_updated": "2026-09-22"
+    "stars": 1114,
+    "forks": 232,
+    "last_updated": "2026-10-23"
   },
   "Runbooks Security Incident": {
     "github": "redar0n/incident-runbook",
@@ -768,7 +768,7 @@
     "category": "Security",
     "stars": 52,
     "forks": 8,
-    "last_updated": "2026-09-22"
+    "last_updated": "2026-10-23"
   },
   "Runbooks Pentesting": {
     "github": "IlyasKadi/runbook",
@@ -776,16 +776,16 @@
     "category": "Security",
     "stars": 1,
     "forks": 3,
-    "last_updated": "2026-09-22"
+    "last_updated": "2026-10-23"
   },
   "OS Tutorial": {
     "github": "cfenollosa/os-tutorial",
     "filePattern": "^(.+)\\.md$",
     "type": "Documentation",
     "category": "Programming",
-    "stars": 30725,
-    "forks": 3552,
-    "last_updated": "2026-09-22"
+    "stars": 30777,
+    "forks": 3551,
+    "last_updated": "2026-10-23"
   },
   "Awesome Programming Projects": {
     "github": "practical-tutorials/project-based-learning",
