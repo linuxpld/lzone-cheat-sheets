@@ -411,7 +411,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Design: Bounded Context Canvas](https://github.com/ddd-crew/bounded-context-canvas) | ⭐2059 | 📄 Docs | Architecture | 
 | [Design: Core Domain Charts](https://github.com/ddd-crew/core-domain-charts) | ⭐621 | 📄 Docs | Architecture | 
 | [DevOps Video Tutorials](https://github.com/antonputra/tutorials) | ⭐4702 | 📄 Docs | DevOps | 
-| [DevSecOps Maturity Model](https://github.com/devsecopsmaturitymodel/DevSecOps-MaturityModel) | ⭐588 | 📄 Docs | DevOps | 
+| [DevSecOps Maturity Model](https://github.com/devsecopsmaturitymodel/DevSecOps-MaturityModel) | ⭐595 | 📄 Docs | DevOps | 
 | [DevSecOps SLSA Framework](https://github.com/slsa-framework/slsa) | ⭐1950 | 📄 Docs | DevOps | 
 | [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet) | ⭐22558 | 📓 Cheat Sheet | DevOps | 
 | [Docker Getting Started](https://github.com/docker/getting-started) | ⭐3090 | 📓 Cheat Sheet | DevOps | 
@@ -499,7 +499,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Javascript ES6 Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) | ⭐13293 | 📓 Cheat Sheet | Programming | 
 | [Javascript Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide) | ⭐23815 | 📄 Docs | Programming | 
 | [Javascript NPM with ES Modules](https://github.com/transitive-bullshit/npm-es-modules) | ⭐75 | 📄 Docs | Programming | 
-| [Kafka Architecture](https://github.com/anhthii/kafka-notes) | ⭐128 | 📄 Docs | Architecture | 
+| [Kafka Architecture](https://github.com/anhthii/kafka-notes) | ⭐132 | 📄 Docs | Architecture | 
 | [LZone Cheat Sheets](https://github.com/lwindolf/lzone-cheat-sheets) | ⭐343 | 📓 Cheat Sheet | DevOps | 
 | [Learn CLI text processing](https://github.com/learnbyexample/Command-line-text-processing) | ⭐10181 | 💡 Tutorial | DevOps | 
 | [Learn Regex](https://github.com/ziishaned/learn-regex) | ⭐46092 | 📓 Cheat Sheet | Programming | 
@@ -560,7 +560,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Monitoring with Prometheus](https://github.com/psibi/prometheus) | ⭐5 | 📕 Book | DevOps | 
 | [Naming Cheat Sheet](https://github.com/kettanaito/naming-cheatsheet) | ⭐14195 | 📓 Cheat Sheet | Programming | 
 | [Nature of Code](https://github.com/nature-of-code/noc-book-2023) |  | 📕 Book | Programming | 
-| [Network Segmentation Cheat Sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) | ⭐3495 | 📓 Cheat Sheet | DevOps | 
+| [Network Segmentation Cheat Sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) | ⭐3499 | 📓 Cheat Sheet | DevOps | 
 | [OS Tutorial](https://github.com/cfenollosa/os-tutorial) | ⭐30777 | 📄 Docs | Programming | 
 | [OSS Vulnerability Guide](https://github.com/google/oss-vulnerability-guide) | ⭐143 | 📓 Cheat Sheet | Security | 
 | [OWASP Cheat Sheets Series](https://github.com/OWASP/CheatSheetSeries) | ⭐33326 | 📓 Cheat Sheet | Security | 

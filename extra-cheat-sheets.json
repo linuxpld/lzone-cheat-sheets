@@ -958,26 +958,26 @@
     "filePattern": "^(.+)\\.md$",
     "category": "DevOps",
     "type": "Documentation",
-    "stars": 588,
-    "forks": 353,
-    "last_updated": "2026-09-23"
+    "stars": 595,
+    "forks": 352,
+    "last_updated": "2026-10-24"
   },
   "Network Segmentation Cheat Sheet": {
     "github": "sergiomarotco/Network-segmentation-cheat-sheet",
     "filePattern": "^(.+)\\.md$",
     "category": "DevOps",
     "type": "Cheat Sheet",
-    "stars": 3495,
-    "forks": 285,
-    "last_updated": "2026-09-23"
+    "stars": 3499,
+    "forks": 286,
+    "last_updated": "2026-10-24"
   },
   "Kafka Architecture": {
     "github": "anhthii/kafka-notes",
     "category": "Architecture",
     "type": "Documentation",
-    "stars": 128,
+    "stars": 132,
     "forks": 66,
-    "last_updated": "2026-09-24"
+    "last_updated": "2026-10-24"
   },
   "Databases Introduction": {
     "github": "anhthii/database-notes",
@@ -986,7 +986,7 @@
     "type": "Book",
     "stars": 62,
     "forks": 22,
-    "last_updated": "2026-09-24"
+    "last_updated": "2026-10-24"
   },
   "ElasticSearch Examples": {
     "github": "elastic/examples",
@@ -994,8 +994,8 @@
     "category": "DevOps",
     "type": "Documentation",
     "stars": 2646,
-    "forks": 1206,
-    "last_updated": "2026-09-24"
+    "forks": 1204,
+    "last_updated": "2026-10-24"
   },
   "ElasticSearch Architecture": {
     "github": "gose/elastic-architectures",
