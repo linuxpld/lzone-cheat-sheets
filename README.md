@@ -369,9 +369,9 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [ArchiMate Intro](https://github.com/yasenstar/ArchiMetal_Practice) | ⭐40 | 💡 Tutorial | Architecture | 
 | [Architecture Books](https://github.com/mhadidg/software-architecture-books) | ⭐11399 | 👍 Awesome | Architecture | 
 | [Architecture Decision Records](https://github.com/joelparkerhenderson/architecture-decision-record) | ⭐15702 | 📄 Docs | Architecture | 
-| [Architecture Domain Driven Hexagon](https://github.com/Sairyss/domain-driven-hexagon) | ⭐14950 | 📄 Docs | Architecture | 
+| [Architecture Domain Driven Hexagon](https://github.com/Sairyss/domain-driven-hexagon) | ⭐14993 | 📄 Docs | Architecture | 
 | [Architecture Enterprise Patterns](https://github.com/chanakaudaya/solution-architecture-patterns) | ⭐3475 | 📄 Docs | Architecture | 
-| [Architecture Microservices](https://github.com/rodrigorodrigues/microservices-design-patterns) | ⭐188 | 📄 Docs | Architecture | 
+| [Architecture Microservices](https://github.com/rodrigorodrigues/microservices-design-patterns) | ⭐187 | 📄 Docs | Architecture | 
 | [Awesome AWS Security](https://github.com/jassics/awesome-aws-security) | ⭐1612 | 👍 Awesome | Security | 
 | [Awesome Azure Architecture](https://github.com/lukemurraynz/awesome-azure-architecture) | ⭐1733 | 👍 Awesome | Cloud | 
 | [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses) | ⭐72269 | 👍 Awesome | Programming | 
@@ -397,19 +397,19 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Bash by Example](https://github.com/cheatsnake/bash-scripts-by-example) | ⭐67 | 📓 Cheat Sheet | DevOps | 
 | [Bayesian Modelling in Python](https://github.com/markdregan/Bayesian-Modelling-in-Python) | ⭐2503 | 📄 Docs | Programming | 
 | [C4-PlantUML Documentation](https://github.com/plantuml-stdlib/C4-PlantUML) | ⭐7420 | 📄 Docs | Architecture | 
-| [CSS Architecture](https://github.com/jareware/css-architecture) | ⭐2566 | 📓 Cheat Sheet | Architecture | 
+| [CSS Architecture](https://github.com/jareware/css-architecture) | ⭐2562 | 📓 Cheat Sheet | Architecture | 
 | [Cloud Outages Index](https://github.com/lwindolf/cloud-outages) | ⭐3 | 📄 Docs | DevOps | 
 | [Cloud Provider Cheat Sheets](https://github.com/JeffDeCola/my-cheat-sheets) | ⭐130 | 📓 Cheat Sheet | DevOps | 
 | [Coding Interview University](https://github.com/jwasham/coding-interview-university) | ⭐362292 | 📄 Docs | Development | 
 | [Cognitive Load](https://github.com/zakirullin/cognitive-load) | ⭐12528 | 💡 Tutorial | Programming | 
-| [DDD Context Mapping](https://github.com/ddd-crew/context-mapping) | ⭐1859 | 📄 Docs | Architecture | 
+| [DDD Context Mapping](https://github.com/ddd-crew/context-mapping) | ⭐1874 | 📄 Docs | Architecture | 
 | [DDD Miro Templates](https://github.com/ddd-crew/virtual-modelling-templates) | ⭐84 | 📄 Docs | Architecture | 
-| [DDD Starter Modelling](https://github.com/ddd-crew/ddd-starter-modelling-process) | ⭐6036 | 📄 Docs | Architecture | 
-| [DDD by Examples](https://github.com/ddd-by-examples/library) | ⭐5871 | 📄 Docs | Architecture | 
+| [DDD Starter Modelling](https://github.com/ddd-crew/ddd-starter-modelling-process) | ⭐6076 | 📄 Docs | Architecture | 
+| [DDD by Examples](https://github.com/ddd-by-examples/library) | ⭐5885 | 📄 Docs | Architecture | 
 | [Databases Introduction](https://github.com/anhthii/database-notes) | ⭐62 | 📕 Book | Architecture | 
-| [Design: Aggregate Design Canvas](https://github.com/ddd-crew/aggregate-design-canvas) | ⭐821 | 📄 Docs | Architecture | 
-| [Design: Bounded Context Canvas](https://github.com/ddd-crew/bounded-context-canvas) | ⭐2059 | 📄 Docs | Architecture | 
-| [Design: Core Domain Charts](https://github.com/ddd-crew/core-domain-charts) | ⭐621 | 📄 Docs | Architecture | 
+| [Design: Aggregate Design Canvas](https://github.com/ddd-crew/aggregate-design-canvas) | ⭐824 | 📄 Docs | Architecture | 
+| [Design: Bounded Context Canvas](https://github.com/ddd-crew/bounded-context-canvas) | ⭐2073 | 📄 Docs | Architecture | 
+| [Design: Core Domain Charts](https://github.com/ddd-crew/core-domain-charts) | ⭐620 | 📄 Docs | Architecture | 
 | [DevOps Video Tutorials](https://github.com/antonputra/tutorials) | ⭐4702 | 📄 Docs | DevOps | 
 | [DevSecOps Maturity Model](https://github.com/devsecopsmaturitymodel/DevSecOps-MaturityModel) | ⭐595 | 📄 Docs | DevOps | 
 | [DevSecOps SLSA Framework](https://github.com/slsa-framework/slsa) | ⭐1950 | 📄 Docs | DevOps | 
@@ -417,7 +417,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Docker Getting Started](https://github.com/docker/getting-started) | ⭐3090 | 📓 Cheat Sheet | DevOps | 
 | [Documentation Ansible](https://github.com/ansible/ansible-documentation) | ⭐182 | 📄 Docs | DevOps | 
 | [Documentation Apache CloudStack](https://github.com/apache/cloudstack-docs) | ⭐15 | 📄 Docs | DevOps | 
-| [Documentation ArgoCD](https://github.com/argoproj/argo-cd) | ⭐24242 | 📄 Docs | DevOps | 
+| [Documentation ArgoCD](https://github.com/argoproj/argo-cd) | ⭐24491 | 📄 Docs | DevOps | 
 | [Documentation Cacti](https://github.com/Cacti/documentation) | ⭐62 | 📄 Docs | DevOps | 
 | [Documentation Certbot](https://github.com/certbot/certbot) | ⭐33256 | 📄 Docs | DevOps | 
 | [Documentation Chef](https://github.com/chef/chef-web-docs) | ⭐143 | 📄 Docs | DevOps | 
@@ -442,9 +442,9 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Documentation OpenTelemetry](https://github.com/open-telemetry/opentelemetry.io) | ⭐977 | 📄 Docs | DevOps | 
 | [Documentation Openshift](https://github.com/openshift/openshift-docs) | ⭐882 | 📄 Docs | DevOps | 
 | [Documentation Powershell](https://github.com/MicrosoftDocs/PowerShell-Docs) | ⭐2569 | 📄 Docs | DevOps | 
-| [Documentation Prometheus](https://github.com/prometheus/docs) | ⭐718 | 📄 Docs | DevOps | 
-| [Documentation Prometheus Alertmanager](https://github.com/prometheus/alertmanager) | ⭐8628 | 📄 Docs | DevOps | 
-| [Documentation Prometheus Operator](https://github.com/prometheus-operator/prometheus-operator) | ⭐9980 | 📄 Docs | DevOps | 
+| [Documentation Prometheus](https://github.com/prometheus/docs) | ⭐723 | 📄 Docs | DevOps | 
+| [Documentation Prometheus Alertmanager](https://github.com/prometheus/alertmanager) | ⭐8676 | 📄 Docs | DevOps | 
+| [Documentation Prometheus Operator](https://github.com/prometheus-operator/prometheus-operator) | ⭐9993 | 📄 Docs | DevOps | 
 | [Documentation Puppet](https://github.com/puppetlabs/puppet-docs) | ⭐222 | 📄 Docs | DevOps | 
 | [Documentation RabbitMQ](https://github.com/rabbitmq/rabbitmq-website) | ⭐1250 | 📄 Docs | DevOps | 
 | [Documentation RedisLabs](https://github.com/RedisLabs/redislabs-docs) | ⭐66 | 📄 Docs | DevOps | 
@@ -554,7 +554,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [MITM Cheat Sheet](https://github.com/frostbits-security/MITM-cheatsheet) | ⭐1041 | 📓 Cheat Sheet | Security | 
 | [MS Architecture Center](https://github.com/MicrosoftDocs/architecture-center) | ⭐2027 | 📄 Docs | Architecture | 
 | [MS Virtualization](https://github.com/MicrosoftDocs/Virtualization-Documentation) | ⭐1923 | 📄 Docs | DevOps | 
-| [Markdown Architecture Decision Records](https://github.com/adr/madr) | ⭐2517 | 📓 Cheat Sheet | Architecture | 
+| [Markdown Architecture Decision Records](https://github.com/adr/madr) | ⭐2593 | 📓 Cheat Sheet | Architecture | 
 | [Meta Checklist](https://github.com/huyingjie/Checklist-Checklist) | ⭐2973 | 📄 Docs | DevOps | 
 | [Modern C++ Tutorial](https://github.com/changkun/modern-cpp-tutorial) | ⭐25913 | 📄 Docs | Programming | 
 | [Monitoring with Prometheus](https://github.com/psibi/prometheus) | ⭐5 | 📕 Book | DevOps | 
@@ -584,7 +584,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Runbooks Security Incident](https://github.com/redar0n/incident-runbook) | ⭐52 | 🤖 Runbook | Security | 
 | [SAP Tutorials](https://github.com/sap-tutorials/Tutorials) | ⭐930 | 📄 Docs | DevOps | 
 | [SRE Cheat Sheet](https://github.com/anshudutta/sre-cheat-sheet) | ⭐57 | 📓 Cheat Sheet | DevOps | 
-| [Scalable SW Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture) | ⭐2271 | 👍 Awesome | Architecture | 
+| [Scalable SW Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture) | ⭐2274 | 👍 Awesome | Architecture | 
 | [Security 101 for SaaS Startups](https://github.com/forter/security-101-for-saas-startups) | ⭐4653 | 📄 Docs | Security | 
 | [Solution Architecture Links](https://github.com/unlight/solution-architecture) | ⭐698 | 👍 Awesome | Architecture | 
 | [SprintBoot Best Practices](https://github.com/AnghelLeonard/Hibernate-SpringBoot) | ⭐1371 | 📄 Docs | Architecture | 
