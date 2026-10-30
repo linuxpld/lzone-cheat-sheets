@@ -433,8 +433,8 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Documentation GRR](https://github.com/google/grr-doc) | ⭐313 | 📄 Docs | Security | 
 | [Documentation Google GVisor](https://github.com/google/gvisor) | ⭐19474 | 📄 Docs | Security | 
 | [Documentation Google OSFIR](https://github.com/google/osdfir-infrastructure) | ⭐214 | 📄 Docs | Security | 
-| [Documentation Grafana Loki](https://github.com/grafana/loki) | ⭐28946 | 📄 Docs | DevOps | 
-| [Documentation Grafana LokiStack Operator](https://github.com/grafana/loki) | ⭐28952 | 📄 Docs | DevOps | 
+| [Documentation Grafana Loki](https://github.com/grafana/loki) | ⭐29094 | 📄 Docs | DevOps | 
+| [Documentation Grafana LokiStack Operator](https://github.com/grafana/loki) | ⭐29094 | 📄 Docs | DevOps | 
 | [Documentation Helm](https://github.com/helm/helm-www) | ⭐230 | 📄 Docs | DevOps | 
 | [Documentation Kata Containers](https://github.com/kata-containers/kata-containers) | ⭐8846 | 📄 Docs | Security | 
 | [Documentation Linode](https://github.com/linode/docs) | ⭐1395 | 📄 Docs | SaaS | 
@@ -448,14 +448,14 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Documentation Puppet](https://github.com/puppetlabs/puppet-docs) | ⭐221 | 📄 Docs | DevOps | 
 | [Documentation RabbitMQ](https://github.com/rabbitmq/rabbitmq-website) | ⭐1250 | 📄 Docs | DevOps | 
 | [Documentation RedisLabs](https://github.com/RedisLabs/redislabs-docs) | ⭐66 | 📄 Docs | DevOps | 
-| [Documentation Telegraf](https://github.com/influxdata/telegraf) | ⭐17833 | 📄 Docs | DevOps | 
+| [Documentation Telegraf](https://github.com/influxdata/telegraf) | ⭐17888 | 📄 Docs | DevOps | 
 | [Documentation TravisCI](https://github.com/travis-ci/docs-travis-ci-com) | ⭐648 | 📄 Docs | DevOps | 
 | [Documentation cfengine](https://github.com/cfengine/documentation) | ⭐38 | 📄 Docs | DevOps | 
 | [Documentation docker-bench-security](https://github.com/docker/docker-bench-security) | ⭐9699 | 📄 Docs | Security | 
 | [Documentation juju](https://github.com/juju/juju) | ⭐2673 | 📄 Docs | DevOps | 
 | [Documentation knative](https://github.com/knative/docs) | ⭐5094 | 📄 Docs | DevOps | 
 | [Documentation kubebench](https://github.com/aquasecurity/kube-bench) | ⭐8206 | 📄 Docs | Security | 
-| [Documentation kubernetes](https://github.com/kubernetes/website) | ⭐5395 | 📄 Docs | DevOps | 
+| [Documentation kubernetes](https://github.com/kubernetes/website) | ⭐5414 | 📄 Docs | DevOps | 
 | [Documentation kubeseal](https://github.com/bitnami-labs/sealed-secrets) | ⭐9130 | 📄 Docs | DevOps | 
 | [Documentation pfsense (legacy)](https://github.com/pfsense/docs) | ⭐125 | 📄 Docs | DevOps | 
 | [Documentation pprof](https://github.com/google/pprof) | ⭐9287 | 📄 Docs | Programming | 
@@ -526,17 +526,17 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Little Go Book](https://github.com/karlseguin/the-little-go-book) | ⭐2344 | 📕 Book | Development | 
 | [Little MongoDB Book](https://github.com/karlseguin/the-little-mongodb-book) | ⭐1486 | 📕 Book | Development | 
 | [Little Redis Book](https://github.com/karlseguin/the-little-redis-book) | ⭐1462 | 📕 Book | Development | 
-| [MDN accessibility](https://github.com/mdn/content) | ⭐11010 | 📄 Docs | Web | 
-| [MDN api](https://github.com/mdn/content) | ⭐11010 | 📄 Docs | Web | 
-| [MDN css](https://github.com/mdn/content) | ⭐11010 | 📄 Docs | Web | 
-| [MDN demos](https://github.com/mdn/content) | ⭐11010 | 📄 Docs | Web | 
-| [MDN events](https://github.com/mdn/content) | ⭐11010 | 📄 Docs | Web | 
-| [MDN exslt](https://github.com/mdn/content) | ⭐11010 | 📄 Docs | Web | 
-| [MDN guide](https://github.com/mdn/content) | ⭐11010 | 📄 Docs | Web | 
-| [MDN html](https://github.com/mdn/content) | ⭐11010 | 📄 Docs | Web | 
-| [MDN http](https://github.com/mdn/content) | ⭐11010 | 📄 Docs | Web | 
-| [MDN javascript](https://github.com/mdn/content) | ⭐11010 | 📄 Docs | Web | 
-| [MDN manifest](https://github.com/mdn/content) | ⭐11010 | 📄 Docs | Web | 
+| [MDN accessibility](https://github.com/mdn/content) | ⭐11109 | 📄 Docs | Web | 
+| [MDN api](https://github.com/mdn/content) | ⭐11109 | 📄 Docs | Web | 
+| [MDN css](https://github.com/mdn/content) | ⭐11109 | 📄 Docs | Web | 
+| [MDN demos](https://github.com/mdn/content) | ⭐11109 | 📄 Docs | Web | 
+| [MDN events](https://github.com/mdn/content) | ⭐11109 | 📄 Docs | Web | 
+| [MDN exslt](https://github.com/mdn/content) | ⭐11109 | 📄 Docs | Web | 
+| [MDN guide](https://github.com/mdn/content) | ⭐11109 | 📄 Docs | Web | 
+| [MDN html](https://github.com/mdn/content) | ⭐11109 | 📄 Docs | Web | 
+| [MDN http](https://github.com/mdn/content) | ⭐11109 | 📄 Docs | Web | 
+| [MDN javascript](https://github.com/mdn/content) | ⭐11109 | 📄 Docs | Web | 
+| [MDN manifest](https://github.com/mdn/content) | ⭐11109 | 📄 Docs | Web | 
 | [MDN mathml](https://github.com/mdn/content) | ⭐11010 | 📄 Docs | Web | 
 | [MDN media](https://github.com/mdn/content) | ⭐11010 | 📄 Docs | Web | 
 | [MDN opensearch](https://github.com/mdn/content) | ⭐11010 | 📄 Docs | Web | 
