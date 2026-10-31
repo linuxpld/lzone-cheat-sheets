@@ -451,10 +451,10 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Documentation Telegraf](https://github.com/influxdata/telegraf) | ⭐17888 | 📄 Docs | DevOps | 
 | [Documentation TravisCI](https://github.com/travis-ci/docs-travis-ci-com) | ⭐648 | 📄 Docs | DevOps | 
 | [Documentation cfengine](https://github.com/cfengine/documentation) | ⭐38 | 📄 Docs | DevOps | 
-| [Documentation docker-bench-security](https://github.com/docker/docker-bench-security) | ⭐9699 | 📄 Docs | Security | 
+| [Documentation docker-bench-security](https://github.com/docker/docker-bench-security) | ⭐9707 | 📄 Docs | Security | 
 | [Documentation juju](https://github.com/juju/juju) | ⭐2673 | 📄 Docs | DevOps | 
 | [Documentation knative](https://github.com/knative/docs) | ⭐5094 | 📄 Docs | DevOps | 
-| [Documentation kubebench](https://github.com/aquasecurity/kube-bench) | ⭐8206 | 📄 Docs | Security | 
+| [Documentation kubebench](https://github.com/aquasecurity/kube-bench) | ⭐8244 | 📄 Docs | Security | 
 | [Documentation kubernetes](https://github.com/kubernetes/website) | ⭐5414 | 📄 Docs | DevOps | 
 | [Documentation kubeseal](https://github.com/bitnami-labs/sealed-secrets) | ⭐9130 | 📄 Docs | DevOps | 
 | [Documentation pfsense (legacy)](https://github.com/pfsense/docs) | ⭐125 | 📄 Docs | DevOps | 
@@ -470,7 +470,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Favicon Cheat Sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) | ⭐9907 | 📓 Cheat Sheet | Web | 
 | [Feature Sliced Frontend Design](https://github.com/feature-sliced/documentation) | ⭐2382 | 💡 Tutorial | Architecture | 
 | [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) | ⭐400413 | 📕 Book | Development | 
-| [Free Tier SaaS List](https://github.com/ripienaar/free-for-dev) | ⭐138884 | 📓 Cheat Sheet | SaaS | 
+| [Free Tier SaaS List](https://github.com/ripienaar/free-for-dev) | ⭐140819 | 📓 Cheat Sheet | SaaS | 
 | [Fuzzing 101](https://github.com/antonio-morales/Fuzzing101) | ⭐3899 | 📄 Docs | Security | 
 | [GCP Cheat Sheet](https://github.com/dennyzhang/cheatsheet-gcp-A4) | ⭐119 | 📓 Cheat Sheet | DevOps | 
 | [GDB Cheat Sheet](https://github.com/reveng007/GDB-Cheat-Sheet) | ⭐34 | 📓 Cheat Sheet | DevOps | 
@@ -537,20 +537,20 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [MDN http](https://github.com/mdn/content) | ⭐11109 | 📄 Docs | Web | 
 | [MDN javascript](https://github.com/mdn/content) | ⭐11109 | 📄 Docs | Web | 
 | [MDN manifest](https://github.com/mdn/content) | ⭐11109 | 📄 Docs | Web | 
-| [MDN mathml](https://github.com/mdn/content) | ⭐11010 | 📄 Docs | Web | 
-| [MDN media](https://github.com/mdn/content) | ⭐11010 | 📄 Docs | Web | 
-| [MDN opensearch](https://github.com/mdn/content) | ⭐11010 | 📄 Docs | Web | 
-| [MDN performance](https://github.com/mdn/content) | ⭐11010 | 📄 Docs | Web | 
-| [MDN privacy](https://github.com/mdn/content) | ⭐11010 | 📄 Docs | Web | 
-| [MDN progressive_web_apps](https://github.com/mdn/content) | ⭐11010 | 📄 Docs | Web | 
-| [MDN security](https://github.com/mdn/content) | ⭐11012 | 📄 Docs | Web | 
-| [MDN svg](https://github.com/mdn/content) | ⭐11012 | 📄 Docs | Web | 
-| [MDN text_fragments](https://github.com/mdn/content) | ⭐11012 | 📄 Docs | Web | 
-| [MDN tutorials](https://github.com/mdn/content) | ⭐11012 | 📄 Docs | Web | 
-| [MDN webdriver](https://github.com/mdn/content) | ⭐11012 | 📄 Docs | Web | 
-| [MDN xml](https://github.com/mdn/content) | ⭐11012 | 📄 Docs | Web | 
-| [MDN xpath](https://github.com/mdn/content) | ⭐11012 | 📄 Docs | Web | 
-| [MDN xslt](https://github.com/mdn/content) | ⭐11012 | 📄 Docs | Web | 
+| [MDN mathml](https://github.com/mdn/content) | ⭐11112 | 📄 Docs | Web | 
+| [MDN media](https://github.com/mdn/content) | ⭐11112 | 📄 Docs | Web | 
+| [MDN opensearch](https://github.com/mdn/content) | ⭐11112 | 📄 Docs | Web | 
+| [MDN performance](https://github.com/mdn/content) | ⭐11112 | 📄 Docs | Web | 
+| [MDN privacy](https://github.com/mdn/content) | ⭐11112 | 📄 Docs | Web | 
+| [MDN progressive_web_apps](https://github.com/mdn/content) | ⭐11112 | 📄 Docs | Web | 
+| [MDN security](https://github.com/mdn/content) | ⭐11112 | 📄 Docs | Web | 
+| [MDN svg](https://github.com/mdn/content) | ⭐11112 | 📄 Docs | Web | 
+| [MDN text_fragments](https://github.com/mdn/content) | ⭐11112 | 📄 Docs | Web | 
+| [MDN tutorials](https://github.com/mdn/content) | ⭐11112 | 📄 Docs | Web | 
+| [MDN webdriver](https://github.com/mdn/content) | ⭐11112 | 📄 Docs | Web | 
+| [MDN xml](https://github.com/mdn/content) | ⭐11112 | 📄 Docs | Web | 
+| [MDN xpath](https://github.com/mdn/content) | ⭐11112 | 📄 Docs | Web | 
+| [MDN xslt](https://github.com/mdn/content) | ⭐11112 | 📄 Docs | Web | 
 | [MITM Cheat Sheet](https://github.com/frostbits-security/MITM-cheatsheet) | ⭐1041 | 📓 Cheat Sheet | Security | 
 | [MS Architecture Center](https://github.com/MicrosoftDocs/architecture-center) | ⭐2027 | 📄 Docs | Architecture | 
 | [MS Virtualization](https://github.com/MicrosoftDocs/Virtualization-Documentation) | ⭐1923 | 📄 Docs | DevOps | 
