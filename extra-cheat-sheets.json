@@ -1595,59 +1595,59 @@
     "category": "DevOps",
     "type": "Cheat Sheet",
     "stars": 119,
-    "forks": 132,
-    "last_updated": "2026-10-01"
+    "forks": 130,
+    "last_updated": "2026-11-02"
   },
   "Documentation CoreDNS": {
     "github": "coredns/coredns.io",
     "category": "DevOps",
     "type": "Documentation",
-    "stars": 191,
-    "forks": 154,
-    "last_updated": "2026-10-01"
+    "stars": 193,
+    "forks": 156,
+    "last_updated": "2026-11-02"
   },
   "OpenSSL Architecture": {
     "github": "openssl/web",
     "filePattern": "^docs/(.+)\\.md$",
     "category": "Architecture",
     "type": "Documentation",
-    "stars": 67,
+    "stars": 68,
     "forks": 71,
-    "last_updated": "2026-10-01"
+    "last_updated": "2026-11-02"
   },
   "Documentation Certbot": {
     "github": "certbot/certbot",
     "filePattern": "^docs/(.+)\\.rst",
     "category": "DevOps",
     "type": "Documentation",
-    "stars": 33256,
-    "forks": 3504,
-    "last_updated": "2026-10-01"
+    "stars": 33307,
+    "forks": 3506,
+    "last_updated": "2026-11-02"
   },
   "Fuzzing 101": {
     "github": "antonio-morales/Fuzzing101",
     "category": "Security",
     "type": "Documentation",
-    "stars": 3899,
-    "forks": 429,
-    "last_updated": "2026-10-01"
+    "stars": 3926,
+    "forks": 433,
+    "last_updated": "2026-11-02"
   },
   "Security 101 for SaaS Startups": {
     "github": "forter/security-101-for-saas-startups",
     "category": "Security",
     "type": "Documentation",
-    "stars": 4653,
-    "forks": 290,
-    "last_updated": "2026-10-01"
+    "stars": 4658,
+    "forks": 291,
+    "last_updated": "2026-11-02"
   },
   "Documentation Datadog": {
     "github": "DataDog/documentation",
     "filePattern": "^content/en/(.+)\\.md$",
     "category": "DevOps",
     "type": "Documentation",
-    "stars": 621,
-    "forks": 1330,
-    "last_updated": "2026-10-01"
+    "stars": 622,
+    "forks": 1334,
+    "last_updated": "2026-11-02"
   },
   "Documentation Compendium": {
     "github": "kylelobo/The-Documentation-Compendium",
@@ -1659,68 +1659,68 @@
     "filePattern": "^docs/(.+)\\.md",
     "type": "Documentation",
     "category": "Security",
-    "stars": 8846,
-    "forks": 1489,
-    "last_updated": "2026-10-01"
+    "stars": 9060,
+    "forks": 1530,
+    "last_updated": "2026-11-02"
   },
   "Google Engineering Practices": {
     "github": "google/eng-practices",
     "type": "Cheat Sheet",
     "category": "DevOps",
-    "stars": 23299,
-    "forks": 2292,
-    "last_updated": "2026-10-02"
+    "stars": 23278,
+    "forks": 2300,
+    "last_updated": "2026-11-02"
   },
   "Documentation Google GVisor": {
     "github": "google/gvisor",
     "filePattern": "^g3doc/(.+)\\.md",
     "type": "Documentation",
     "category": "Security",
-    "stars": 19474,
-    "forks": 2012,
-    "last_updated": "2026-10-02"
+    "stars": 19846,
+    "forks": 2047,
+    "last_updated": "2026-11-02"
   },
   "Documentation GRR": {
     "github": "google/grr-doc",
     "type": "Documentation",
     "category": "Security",
-    "stars": 313,
+    "stars": 311,
     "forks": 155,
-    "last_updated": "2026-10-02"
+    "last_updated": "2026-11-02"
   },
   "Documentation Google OSFIR": {
     "github": "google/osdfir-infrastructure",
     "filePattern": "^docs/(.+)\\.md",
     "type": "Documentation",
     "category": "Security",
-    "stars": 214,
+    "stars": 216,
     "forks": 30,
-    "last_updated": "2026-10-02"
+    "last_updated": "2026-11-02"
   },
   "Documentation OSV Scanner": {
     "github": "google/osv-scanner",
     "filePattern": "^docs/(.+)\\.md",
     "type": "Documentation",
     "category": "Security",
-    "stars": 11131,
-    "forks": 806,
-    "last_updated": "2026-10-02"
+    "stars": 11351,
+    "forks": 832,
+    "last_updated": "2026-11-02"
   },
   "Documentation pprof": {
     "github": "google/pprof",
     "type": "Documentation",
     "category": "Programming",
-    "stars": 9287,
-    "forks": 673,
-    "last_updated": "2026-10-02"
+    "stars": 9318,
+    "forks": 686,
+    "last_updated": "2026-11-02"
   },
   "OSS Vulnerability Guide": {
     "github": "google/oss-vulnerability-guide",
     "type": "Cheat Sheet",
     "category": "Security",
-    "stars": 143,
-    "forks": 44,
-    "last_updated": "2026-10-02"
+    "stars": 144,
+    "forks": 43,
+    "last_updated": "2026-11-02"
   },
   "Google DevOps Governance": {
     "github": "google/devops-governance",
