@@ -1854,15 +1854,15 @@
     "category": "Architecture",
     "stars": 83,
     "forks": 35,
-    "last_updated": "2026-10-03"
+    "last_updated": "2026-11-04"
   },
   "Learning Path Senior Developer": {
     "github": "joebew42/study-path",
     "type": "Learning Path",
     "category": "Development",
-    "stars": 3004,
+    "stars": 3009,
     "forks": 348,
-    "last_updated": "2026-10-03"
+    "last_updated": "2026-11-04"
   },
   "Learning Path Data Science": {
     "github": "myarist/Data-Science-Learning-Path",
@@ -1873,9 +1873,9 @@
     "github": "AMAI-GmbH/AI-Expert-Roadmap",
     "type": "Learning Path",
     "category": "Development",
-    "stars": 31281,
-    "forks": 2587,
-    "last_updated": "2026-10-03"
+    "stars": 31336,
+    "forks": 2590,
+    "last_updated": "2026-11-04"
   },
   "Documentation TravisCI": {
     "github": "travis-ci/docs-travis-ci-com",
@@ -1883,8 +1883,8 @@
     "type": "Documentation",
     "category": "DevOps",
     "stars": 648,
-    "forks": 3432,
-    "last_updated": "2026-10-03"
+    "forks": 3444,
+    "last_updated": "2026-11-04"
   },
   "Documentation CloudFoundry Bosh": {
     "github": "cloudfoundry/docs-bosh",
@@ -1892,17 +1892,17 @@
     "type": "Documentation",
     "category": "DevOps",
     "stars": 37,
-    "forks": 271,
-    "last_updated": "2026-10-03"
+    "forks": 274,
+    "last_updated": "2026-11-04"
   },
   "Documentation FreeBSD": {
     "github": "freebsd/freebsd-doc",
     "filePattern": "^documentation/content/en/(.+).adoc$",
     "type": "Documentation",
     "category": "DevOps",
-    "stars": 387,
-    "forks": 436,
-    "last_updated": "2026-10-03"
+    "stars": 391,
+    "forks": 440,
+    "last_updated": "2026-11-04"
   },
   "Documentation pfsense (legacy)": {
     "github": "pfsense/docs",
@@ -1910,26 +1910,26 @@
     "type": "Documentation",
     "category": "DevOps",
     "stars": 125,
-    "forks": 101,
-    "last_updated": "2026-10-03"
+    "forks": 100,
+    "last_updated": "2026-11-04"
   },
   "Documentation rundeck": {
     "github": "rundeck/docs",
     "filePattern": "^docs/(.+).md$",
     "type": "Documentation",
     "category": "DevOps",
-    "stars": 91,
+    "stars": 94,
     "forks": 177,
-    "last_updated": "2026-10-03"
+    "last_updated": "2026-11-04"
   },
   "Runbooks PagerDuty Incident Response": {
     "github": "PagerDuty/incident-response-docs",
     "filePattern": "^docs/(.+).md$",
     "type": "Runbook",
     "category": "DevOps",
-    "stars": 1053,
-    "forks": 219,
-    "last_updated": "2026-10-03"
+    "stars": 1052,
+    "forks": 218,
+    "last_updated": "2026-11-04"
   },
   "Documentation RedisLabs": {
     "github": "RedisLabs/redislabs-docs",
@@ -1937,8 +1937,8 @@
     "type": "Documentation",
     "category": "DevOps",
     "stars": 66,
-    "forks": 457,
-    "last_updated": "2026-10-03"
+    "forks": 456,
+    "last_updated": "2026-11-04"
   },
   "Documentation Chef": {
     "github": "chef/chef-web-docs",
@@ -1946,16 +1946,16 @@
     "type": "Documentation",
     "category": "DevOps",
     "stars": 143,
-    "forks": 438,
-    "last_updated": "2026-10-03"
+    "forks": 440,
+    "last_updated": "2026-11-04"
   },
   "Documentation FluentBit": {
     "github": "fluent/fluent-bit-docs",
     "type": "Documentation",
     "category": "DevOps",
     "stars": 150,
-    "forks": 567,
-    "last_updated": "2026-10-04"
+    "forks": 571,
+    "last_updated": "2026-11-04"
   },
   "Documentation Apache CloudStack": {
     "github": "apache/cloudstack-docs",
@@ -1963,8 +1963,8 @@
     "type": "Documentation",
     "category": "DevOps",
     "stars": 15,
-    "forks": 55,
-    "last_updated": "2026-10-04"
+    "forks": 54,
+    "last_updated": "2026-11-04"
   },
   "Documentation Flux": {
     "github": "fluxcd/website",
@@ -1972,8 +1972,8 @@
     "type": "Documentation",
     "category": "DevOps",
     "stars": 65,
-    "forks": 403,
-    "last_updated": "2026-10-04"
+    "forks": 408,
+    "last_updated": "2026-11-04"
   },
   "Coding Interview University": {
     "github": "jwasham/coding-interview-university",

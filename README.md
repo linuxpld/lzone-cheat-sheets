@@ -429,7 +429,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Documentation Docker](https://github.com/docker/docs) | ⭐4672 | 📄 Docs | DevOps | 
 | [Documentation FluentBit](https://github.com/fluent/fluent-bit-docs) | ⭐150 | 📄 Docs | DevOps | 
 | [Documentation Flux](https://github.com/fluxcd/website) | ⭐65 | 📄 Docs | DevOps | 
-| [Documentation FreeBSD](https://github.com/freebsd/freebsd-doc) | ⭐387 | 📄 Docs | DevOps | 
+| [Documentation FreeBSD](https://github.com/freebsd/freebsd-doc) | ⭐391 | 📄 Docs | DevOps | 
 | [Documentation GRR](https://github.com/google/grr-doc) | ⭐311 | 📄 Docs | Security | 
 | [Documentation Google GVisor](https://github.com/google/gvisor) | ⭐19846 | 📄 Docs | Security | 
 | [Documentation Google OSFIR](https://github.com/google/osdfir-infrastructure) | ⭐216 | 📄 Docs | Security | 
@@ -459,7 +459,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Documentation kubeseal](https://github.com/bitnami-labs/sealed-secrets) | ⭐9130 | 📄 Docs | DevOps | 
 | [Documentation pfsense (legacy)](https://github.com/pfsense/docs) | ⭐125 | 📄 Docs | DevOps | 
 | [Documentation pprof](https://github.com/google/pprof) | ⭐9318 | 📄 Docs | Programming | 
-| [Documentation rundeck](https://github.com/rundeck/docs) | ⭐91 | 📄 Docs | DevOps | 
+| [Documentation rundeck](https://github.com/rundeck/docs) | ⭐94 | 📄 Docs | DevOps | 
 | [Elastic Data Lake Architecture](https://github.com/gose/elastic-data-lake) | ⭐25 | 📄 Docs | Architecture | 
 | [ElasticSearch Architecture](https://github.com/gose/elastic-architectures) | ⭐5 | 📄 Docs | Architecture | 
 | [ElasticSearch Examples](https://github.com/elastic/examples) | ⭐2646 | 📄 Docs | DevOps | 
@@ -508,11 +508,11 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Learn Vim](https://github.com/iggredible/Learn-Vim) | ⭐15332 | 💡 Tutorial | DevOps | 
 | [Learn sed](https://github.com/dohlee/learn-sed) | ⭐2 | 💡 Tutorial | DevOps | 
 | [LearnXinYMinutes](https://github.com/adambard/learnxinyminutes-docs) | ⭐12372 | 💡 Tutorial | Programming | 
-| [Learning Path AI Expert](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) | ⭐31281 | 📚 Learning Path | Development | 
+| [Learning Path AI Expert](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) | ⭐31336 | 📚 Learning Path | Development | 
 | [Learning Path Data Science](https://github.com/myarist/Data-Science-Learning-Path) |  | 📚 Learning Path | Development | 
 | [Learning Path FullStack Web Dev](https://github.com/shovanch/fullstack-web-developer-path) | ⭐3475 | 📚 Learning Path | Development | 
 | [Learning Path Functional Programming](https://github.com/imteekay/functional-programming-learning-path) | ⭐1045 | 📚 Learning Path | Development | 
-| [Learning Path Senior Developer](https://github.com/joebew42/study-path) | ⭐3004 | 📚 Learning Path | Development | 
+| [Learning Path Senior Developer](https://github.com/joebew42/study-path) | ⭐3009 | 📚 Learning Path | Development | 
 | [Learning Path Software Design](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) | ⭐3410 | 📚 Learning Path | Development | 
 | [Learning Path Springboot Microservices](https://github.com/TechPrimers/learning-path-spring-boot-microservices) | ⭐298 | 📚 Learning Path | Development | 
 | [Learning Path System Design](https://github.com/TechPrimers/learning-path-system-design) | ⭐83 | 📚 Learning Path | Architecture | 
@@ -578,7 +578,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Runbooks Container Solutions](https://github.com/ContainerSolutions/runbooks) | ⭐128 | 🤖 Runbook | DevOps | 
 | [Runbooks Example](https://github.com/sstafford/ops_runbook) | ⭐32 | 🤖 Runbook | DevOps | 
 | [Runbooks Openshift](https://github.com/openshift/runbooks) | ⭐107 | 🤖 Runbook | DevOps | 
-| [Runbooks PagerDuty Incident Response](https://github.com/PagerDuty/incident-response-docs) | ⭐1053 | 🤖 Runbook | DevOps | 
+| [Runbooks PagerDuty Incident Response](https://github.com/PagerDuty/incident-response-docs) | ⭐1052 | 🤖 Runbook | DevOps | 
 | [Runbooks Pentesting](https://github.com/IlyasKadi/runbook) | ⭐1 | 🤖 Runbook | Security | 
 | [Runbooks Prometheus Operator](https://github.com/prometheus-operator/runbooks) | ⭐123 | 📄 Docs | DevOps | 
 | [Runbooks Security Incident](https://github.com/redar0n/incident-runbook) | ⭐52 | 🤖 Runbook | Security | 
