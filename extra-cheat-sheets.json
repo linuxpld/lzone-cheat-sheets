@@ -2187,7 +2187,7 @@
     "category": "DevOps",
     "stars": 5,
     "forks": 2,
-    "last_updated": "2026-10-05"
+    "last_updated": "2026-11-07"
   },
   "Zabbix Book": {
     "github": "Trikke76/Zabbix-Book",
@@ -2195,23 +2195,23 @@
     "category": "DevOps",
     "stars": 38,
     "forks": 6,
-    "last_updated": "2026-10-06"
+    "last_updated": "2026-11-07"
   },
   "devinterview.io Data Engineer": {
     "github": "Devinterview-io/data-engineer-interview-questions",
     "type": "Interview",
     "category": "DevOps",
-    "stars": 104,
+    "stars": 107,
     "forks": 27,
-    "last_updated": "2026-10-06"
+    "last_updated": "2026-11-07"
   },
   "devinterview.io Data Analyst": {
     "github": "Devinterview-io/data-analyst-interview-questions",
     "type": "Interview",
     "category": "ML",
-    "stars": 92,
+    "stars": 93,
     "forks": 13,
-    "last_updated": "2026-10-06"
+    "last_updated": "2026-11-07"
   },
   "devinterview.io Dimensionality": {
     "github": "Devinterview-io/curse-of-dimensionality-interview-questions",
@@ -2219,7 +2219,7 @@
     "category": "ML",
     "stars": 8,
     "forks": 1,
-    "last_updated": "2026-10-06"
+    "last_updated": "2026-11-07"
   },
   "devinterview.io Apache Spark": {
     "github": "Devinterview-io/apache-spark-interview-questions",
@@ -2227,7 +2227,7 @@
     "category": "ML",
     "stars": 40,
     "forks": 20,
-    "last_updated": "2026-10-06"
+    "last_updated": "2026-11-07"
   },
   "devinterview.io XML": {
     "github": "Devinterview-io/xml-interview-questions",
@@ -2235,15 +2235,15 @@
     "category": "DevOps",
     "stars": 3,
     "forks": 2,
-    "last_updated": "2026-10-06"
+    "last_updated": "2026-11-07"
   },
   "devinterview.io Architecture": {
     "github": "Devinterview-io/software-architecture-interview-questions",
     "type": "Interview",
     "category": "Architecture",
-    "stars": 170,
+    "stars": 173,
     "forks": 44,
-    "last_updated": "2026-10-06"
+    "last_updated": "2026-11-07"
   },
   "devinterview.io SOA": {
     "github": "Devinterview-io/service-oriented-architecture-interview-questions",
@@ -2251,15 +2251,15 @@
     "category": "Architecture",
     "stars": 15,
     "forks": 5,
-    "last_updated": "2026-10-06"
+    "last_updated": "2026-11-07"
   },
   "devinterview.io Microservices": {
     "github": "Devinterview-io/microservices-interview-questions",
     "type": "Interview",
     "category": "Architecture",
-    "stars": 147,
-    "forks": 60,
-    "last_updated": "2026-10-06"
+    "stars": 149,
+    "forks": 61,
+    "last_updated": "2026-11-07"
   },
   "devinterview.io NOSQL": {
     "github": "Devinterview-io/nosql-interview-questions",
