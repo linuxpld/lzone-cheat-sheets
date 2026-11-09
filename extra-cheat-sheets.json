@@ -2345,9 +2345,9 @@
     "github": "curl/everything-curl",
     "type": "Book",
     "category": "DevOps",
-    "stars": 2267,
-    "forks": 338,
-    "last_updated": "2026-10-07"
+    "stars": 2273,
+    "forks": 342,
+    "last_updated": "2026-11-09"
   },
   "Linux Kernel Docs": {
     "github": "bryancandi/LinuxKernelDocs",
@@ -2356,31 +2356,31 @@
     "filePattern": "^assetpack/src/main/assets/(.+\\.html)$",
     "stars": 1,
     "forks": 0,
-    "last_updated": "2026-10-07"
+    "last_updated": "2026-11-09"
   },
   "Documentation Ansible": {
     "github": "ansible/ansible-documentation",
     "type": "Documentation",
     "category": "DevOps",
     "filePattern": "docs/docsite/rst/(.+\\.rst)$",
-    "stars": 182,
-    "forks": 858,
-    "last_updated": "2026-10-07"
+    "stars": 187,
+    "forks": 868,
+    "last_updated": "2026-11-09"
   },
   "Embedded New Testament": {
     "github": "theEmbeddedGeorge/theEmbeddedNewTestament.github.io",
     "type": "Documentation",
     "category": "Development",
-    "stars": 1007,
-    "forks": 205,
-    "last_updated": "2026-10-07"
+    "stars": 1124,
+    "forks": 215,
+    "last_updated": "2026-11-09"
   },
   "x86 bare metal examples": {
     "github": "cirosantilli/x86-bare-metal-examples",
     "type": "Tutorial",
     "category": "Development",
-    "stars": 5385,
+    "stars": 5441,
     "forks": 431,
-    "last_updated": "2026-10-07"
+    "last_updated": "2026-11-09"
   }
 }
